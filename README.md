@@ -7,7 +7,7 @@ The focus is on **thinking with AI**, not delegating judgment to AI.
 
 ## Purpose
 
-Generative AI can be useful for:
+Generative AI can be useful for: 
 - Structuring complex questions
 - Mapping arguments and counterarguments
 - Summarizing large volumes of text
