@@ -31,4 +31,3 @@ bookdown::pdf_book:
 
 
 bookdown::epub_book: default
-``
