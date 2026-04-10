@@ -1,8 +1,7 @@
 
 # Generative AI as a Research and Investigation Assistant
 
-This repository explores how generative AI tools can be used to support
-research, investigation, and analytical writing.
+This repository explores how generative AI tools can be used to support investigation and analytical writing.
 
 The focus is on **thinking with AI**, not delegating judgment to AI.
 
