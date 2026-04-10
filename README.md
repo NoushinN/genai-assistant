@@ -52,4 +52,8 @@ This repository documents patterns that emphasize:
 
 This repository reflects general research and writing practices.
 It does not represent the views, guidance, or policies of any employer,
+<<<<<<< HEAD
 organization, or institution.
+=======
+organization, or institution.
+>>>>>>> 1770b71 (update)
