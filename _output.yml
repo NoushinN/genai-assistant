@@ -1,0 +1,34 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: yes
+      before: |
+        <li class="toc-title">
+          <strong>Generative AI as an Assistant</strong><br/>
+          <span class="toc-subtitle">A research-oriented guide</span>
+        </li>
+      after: |
+        <li><a href="https://github.com/NoushinN/genai-assistant" target="_blank">
+          Source repository (GitHub)
+        </a></li>
+    download: ["pdf", "epub"]
+    sharing:
+      github: yes
+      facebook: no
+      twitter: no
+      linkedin: no
+    search: yes
+
+
+bookdown::pdf_book:
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+  includes:
+    in_header: preamble.tex
+
+
+bookdown::epub_book: default
+``

@@ -1,0 +1,8 @@
+book_filename: "generative-ai-as-an-assistant"
+output_dir: "_book"
+delete_merged_file: true
+new_session: true
+
+language:
+  ui:
+    chapter_name: ""
