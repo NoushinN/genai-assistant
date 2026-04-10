@@ -20,6 +20,40 @@ description:
 ---
 
 
+# Introduction
+
+Generative artificial intelligence systems are increasingly used to draft,
+summarize, and explain complex material. They are embedded in everyday tools and
+often described as assistants, copilots, or collaborators. Despite their rapid
+adoption, there is little shared understanding of what it actually means to use
+generative AI *well* in research and investigative contexts.
+
+This book approaches generative AI as an **assistant to thinking**, not as a
+source of authority. Rather than treating AI outputs as answers, it treats them
+as prompts for reflection: ways to surface assumptions, explore alternative
+framings, clarify arguments, and identify gaps in reasoning or evidence. The
+central premise is that generative AI can support analytical work without
+replacing human judgment, responsibility, or methodological care.
+
+In research settings, the risks of uncritical AI use are substantial. Fluent
+language can obscure uncertainty, fabricated details can appear plausible, and
+the line between evidence and interpretation can easily blur. These risks are
+not failures of the user alone; they follow directly from how generative models
+produce text. Recognizing this, the approach taken here emphasizes deliberate
+use, transparency, and epistemic humility.
+
+Throughout the book, generative AI is treated as one tool among many in the
+research process. It can be helpful for organizing ideas, synthesizing material,
+and improving clarity, but it cannot evaluate evidence, determine truth, or
+assume accountability. Responsibility for interpretation and conclusions always
+remains with the researcher.
+
+This book is written for readers who are curious about generative AI but cautious
+about its implications: researchers, analysts, students, and others engaged in
+inquiry and investigation. Its goal is not to promote efficiency or automation,
+but to support thoughtful engagement with generative AI as an assistant—used
+critically, provisionally, and in service of clearer thinking.
+
 
 
 ## What this book is
