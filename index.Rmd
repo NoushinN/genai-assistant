@@ -23,7 +23,7 @@ description:
 # Introduction
 
 Generative artificial intelligence systems are increasingly used to draft,
-summarize, and explain complex material. They are embedded in everyday tools and
+summarize, and explain complex concepts. They are embedded in everyday tools and
 often described as assistants, copilots, or collaborators. Despite their rapid
 adoption, there is little shared understanding of what it actually means to use
 generative AI *well* in research and investigative contexts.
