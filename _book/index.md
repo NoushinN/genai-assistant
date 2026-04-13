@@ -1,7 +1,7 @@
 ---
 title: "Generative AI as an Assistant"
 author: "Noushin Nabavi"
-date: "2026-04-10"
+date: "2026-04-13"
 site: bookdown::bookdown_site
 documentclass: book
 
@@ -23,7 +23,7 @@ description:
 # Introduction
 
 Generative artificial intelligence systems are increasingly used to draft,
-summarize, and explain complex material. They are embedded in everyday tools and
+summarize, and explain complex concepts. They are embedded in everyday tools and
 often described as assistants, copilots, or collaborators. Despite their rapid
 adoption, there is little shared understanding of what it actually means to use
 generative AI *well* in research and investigative contexts.
@@ -42,11 +42,11 @@ not failures of the user alone; they follow directly from how generative models
 produce text. Recognizing this, the approach taken here emphasizes deliberate
 use, transparency, and epistemic humility.
 
-Throughout the book, generative AI is treated as one tool among many in the
+Throughout this book, generative AI is treated as one tool among many in the
 research process. It can be helpful for organizing ideas, synthesizing material,
 and improving clarity, but it cannot evaluate evidence, determine truth, or
 assume accountability. Responsibility for interpretation and conclusions always
-remains with the researcher.
+remains with the user.
 
 This book is written for readers who are curious about generative AI but cautious
 about its implications: researchers, analysts, students, and others engaged in
@@ -79,7 +79,7 @@ This book does **not** treat generative AI as:
 - An autonomous research or analysis system
 
 Throughout the book, responsibility for accuracy, interpretation, and
-conclusions remains fully with the human researcher.
+conclusions remains fully with the human user.
 
 
 
