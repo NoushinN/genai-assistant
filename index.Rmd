@@ -115,5 +115,5 @@ The chapters that follow address:
 - Practical techniques for reviewing and revising AI‑assisted text
 
 Together, these chapters aim to support thoughtful engagement with generative AI
-as an assistant—one tool among many in the research process.
+as an assistant, one tool among many in the research process.
 
