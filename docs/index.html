@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Generative AI as an Assistant</title>
+  <meta name="description" content="Generative AI systems are increasingly used to draft, summarize, and explain complex material. Often described as assistants, copilots, or collaborators, their role in research and investigation remains poorly defined.
+This book examines how generative AI can function as an assistant in analytical work—supporting sense‑making, exploration, and communication—without substituting for human judgment, evidence, or accountability." />
+  <meta name="generator" content="bookdown 0.46 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Generative AI as an Assistant" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="Generative AI systems are increasingly used to draft, summarize, and explain complex material. Often described as assistants, copilots, or collaborators, their role in research and investigation remains poorly defined.
+This book examines how generative AI can function as an assistant in analytical work—supporting sense‑making, exploration, and communication—without substituting for human judgment, evidence, or accountability." />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Generative AI as an Assistant" />
+  
+  <meta name="twitter:description" content="Generative AI systems are increasingly used to draft, summarize, and explain complex material. Often described as assistants, copilots, or collaborators, their role in research and investigation remains poorly defined.
+This book examines how generative AI can function as an assistant in analytical work—supporting sense‑making, exploration, and communication—without substituting for human judgment, evidence, or accountability." />
+  
+
+<meta name="author" content="Noushin Nabavi" />
+
+
+<meta name="date" content="2026-04-14" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="toc-title">
+  <strong>Generative AI as an Assistant</strong><br/>
+  <span class="toc-subtitle">A research-oriented guide</span>
+</li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="#introduction"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="#what-this-book-is"><i class="fa fa-check"></i><b>1.1</b> What this book is</a></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="#what-this-book-is-not"><i class="fa fa-check"></i><b>1.2</b> What this book is not</a></li>
+<li class="chapter" data-level="1.3" data-path="index.html"><a href="#how-to-use-this-book"><i class="fa fa-check"></i><b>1.3</b> How to use this book</a></li>
+<li class="chapter" data-level="1.4" data-path="index.html"><a href="#an-epistemic-stance"><i class="fa fa-check"></i><b>1.4</b> An epistemic stance</a></li>
+<li class="chapter" data-level="1.5" data-path="index.html"><a href="#structure-of-the-book"><i class="fa fa-check"></i><b>1.5</b> Structure of the book</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/NoushinN/genai-assistant" target="_blank">
+  Source repository (GitHub)
+</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Generative AI as an Assistant</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="header">
+<h1 class="title">Generative AI as an Assistant</h1>
+<p class="author"><em>Noushin Nabavi</em></p>
+<p class="date"><em>2026-04-14</em></p>
+</div>
+<div id="introduction" class="section level1 hasAnchor" number="1">
+<h1><span class="header-section-number">1</span> Introduction<a href="#introduction" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Generative artificial intelligence systems are increasingly used to draft,
+summarize, and explain complex concepts. They are embedded in everyday tools and
+often described as assistants, copilots, or collaborators. Despite their rapid
+adoption, there is little shared understanding of what it actually means to use
+generative AI well in research contexts.</p>
+<p>This book approaches generative AI as an assistant to thinking, not as a
+source of authority. Rather than treating AI outputs as answers, it treats them
+as prompts for reflection: ways to surface assumptions, explore alternative
+framings, clarify arguments, and identify gaps in reasoning or evidence. The
+central premise is that generative AI can support analytical work without
+replacing human judgment, responsibility, or methodological care.</p>
+<p>In research settings, the risks of uncritical AI use are substantial. Fluent
+language can obscure uncertainty, fabricated details can appear plausible, and
+the line between evidence and interpretation can easily blur. These risks are
+not failures of the user alone; they follow directly from how generative models
+produce text. Recognizing this, the approach taken here emphasizes deliberate
+use, transparency, and epistemic humility.</p>
+<p>Throughout this book, generative AI is treated as one tool among many in the
+research process. It can be helpful for organizing ideas, synthesizing material,
+and improving clarity, but it cannot evaluate evidence, determine truth, or
+assume accountability. Responsibility for interpretation and conclusions always
+remains with the user.</p>
+<p>This book is written for readers who are curious about generative AI but cautious
+about its implications: researchers, analysts, students, and others engaged in
+inquiry and investigation. Its goal is not to promote efficiency or automation,
+but to support thoughtful engagement with generative AI as an assistant—used
+critically, provisionally, and in service of clearer thinking.</p>
+<div id="what-this-book-is" class="section level2 hasAnchor" number="1.1">
+<h2><span class="header-section-number">1.1</span> What this book is<a href="#what-this-book-is" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>This book is a practical and conceptual guide to using generative AI as a
+research assistant. It focuses on how large language models can support research
+and investigative work by helping with:</p>
+<ul>
+<li>Structuring questions and lines of inquiry</li>
+<li>Exploring alternative framings or interpretations</li>
+<li>Summarizing and synthesizing existing material</li>
+<li>Making assumptions and uncertainty explicit</li>
+<li>Improving clarity in analytical and explanatory writing</li>
+</ul>
+</div>
+<div id="what-this-book-is-not" class="section level2 hasAnchor" number="1.2">
+<h2><span class="header-section-number">1.2</span> What this book is not<a href="#what-this-book-is-not" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>This book does <strong>not</strong> treat generative AI as:</p>
+<ul>
+<li>A source of factual authority or evidence</li>
+<li>A decision‑maker or evaluator</li>
+<li>A replacement for subject‑matter expertise</li>
+<li>An autonomous research or analysis system</li>
+</ul>
+<p>Throughout the book, responsibility for accuracy, interpretation, and
+conclusions remains fully with the human user.</p>
+</div>
+<div id="how-to-use-this-book" class="section level2 hasAnchor" number="1.3">
+<h2><span class="header-section-number">1.3</span> How to use this book<a href="#how-to-use-this-book" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Readers may engage with this book in different ways:</p>
+<ul>
+<li>Sequentially, as a conceptual guide to AI‑assisted research</li>
+<li>Selectively, by focusing on specific patterns or examples</li>
+<li>Reflectively, as a way to examine their own use of generative AI</li>
+</ul>
+<p>Examples and prompts are illustrative rather than prescriptive. They are
+intended to support thoughtful experimentation, not standardization.</p>
+</div>
+<div id="an-epistemic-stance" class="section level2 hasAnchor" number="1.4">
+<h2><span class="header-section-number">1.4</span> An epistemic stance<a href="#an-epistemic-stance" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Generative AI systems produce fluent and plausible text, but they do not possess understanding, intent, or epistemic responsibility. As a result, their use in research carries specific risks: overconfidence, fabrication, and the blurring of evidence and inference.</p>
+<p>Throughout this book, the emphasis is on epistemic humility—treating AI outputs as provisional, contestable, and in need of human verification. The goal is not efficiency for its own sake, but clarity, transparency, and methodological care.</p>
+</div>
+<div id="structure-of-the-book" class="section level2 hasAnchor" number="1.5">
+<h2><span class="header-section-number">1.5</span> Structure of the book<a href="#structure-of-the-book" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>The chapters that follow address:</p>
+<ul>
+<li>Conceptual foundations and limitations of generative AI</li>
+<li>Prompt patterns for inquiry, synthesis, and reflection</li>
+<li>Examples drawn from research and investigative contexts</li>
+<li>Practical techniques for reviewing and revising AI‑assisted text</li>
+</ul>
+<p>Together, these chapters aim to support thoughtful engagement with generative AI
+as an assistant, one tool among many in the research process.</p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+  "sharing": {
+    "github": true,
+    "facebook": false,
+    "twitter": false,
+    "linkedin": false,
+    "weibo": false,
+    "instapaper": false,
+    "vk": false,
+    "whatsapp": false,
+    "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+  },
+  "fontsettings": {
+    "theme": "white",
+    "family": "sans",
+    "size": 2
+  },
+  "edit": {
+    "link": null,
+    "text": null
+  },
+  "history": {
+    "link": null,
+    "text": null
+  },
+  "view": {
+    "link": null,
+    "text": null
+  },
+  "download": ["genai-assistant.pdf", "genai-assistant.epub"],
+  "search": {
+    "engine": "fuse",
+    "options": null
+  },
+  "toc": {
+    "collapse": "section",
+    "scroll_highlight": true
+  }
+});
+});
+</script>
+
+</body>
+
+</html>

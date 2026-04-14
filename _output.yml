@@ -1,6 +1,7 @@
 bookdown::gitbook:
   css: style.css
   config:
+    base_url: https://noushinn.github.io/genai-assistant/
     toc:
       collapse: section
       scroll_highlight: yes
@@ -20,14 +21,3 @@ bookdown::gitbook:
       twitter: no
       linkedin: no
     search: yes
-
-
-bookdown::pdf_book:
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
-  includes:
-    in_header: preamble.tex
-
-
-bookdown::epub_book: default
