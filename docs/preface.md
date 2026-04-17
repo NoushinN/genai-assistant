@@ -4,7 +4,7 @@
 
 This book explores how generative AI tools can be used to support investigation and analytical writing.
 
-The focus is on **thinking with AI**, not delegating judgment to AI.
+The focus is on thinking with AI, not delegating judgment to AI.
 
 ## Purpose
 
@@ -16,7 +16,7 @@ Generative AI can be useful for:
 - Identifying assumptions and gaps
 - Improving clarity and coherence in writing
 
-Generative AI is **not** a source of evidence, authority, or truth.
+Generative AI is not a source of evidence, authority, or truth.
 
 This book documents patterns that emphasize:
 

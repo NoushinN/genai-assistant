@@ -1,7 +1,7 @@
 ---
 title: "Generative AI as an Assistant"
 author: "Noushin Nabavi"
-date: "2026-04-14"
+date: "2026-04-16"
 site: bookdown::bookdown_site
 documentclass: book
 
