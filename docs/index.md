@@ -12,108 +12,81 @@ output:
 description: 
   "Generative AI systems are increasingly used to draft, summarize, and explain
   complex material. Often described as assistants, copilots, or collaborators,
-  their role in research and investigation remains poorly defined.
+  their role in research, policy analysis, and investigation remains poorly defined.
 
   This book examines how generative AI can function as an assistant in analytical
-  work—supporting sense‑making, exploration, and communication—without
+  work—supporting sense‑making, exploration, review, and communication—without
   substituting for human judgment, evidence, or accountability."
 ---
-
 
 # Introduction
 
 Generative artificial intelligence systems are increasingly used to draft,
-summarize, and explain complex concepts. They are embedded in everyday tools and
+summarize, and explain complex material. They are embedded in everyday tools and
 often described as assistants, copilots, or collaborators. Despite their rapid
-adoption, there is little shared understanding of what it actually means to use
-generative AI well in research contexts.
+adoption, there is little shared understanding of what it means to use generative
+AI *well* in research, policy, and analytical contexts.
 
-This book approaches generative AI as an assistant to thinking, not as a
+This book approaches generative AI as an **assistant to thinking**, not as a
 source of authority. Rather than treating AI outputs as answers, it treats them
 as prompts for reflection: ways to surface assumptions, explore alternative
 framings, clarify arguments, and identify gaps in reasoning or evidence. The
-central premise is that generative AI can support analytical work without
-replacing human judgment, responsibility, or methodological care.
+central premise is that generative AI can support analytical work **without
+replacing human judgment, responsibility, or methodological care**.
 
-In research settings, the risks of uncritical AI use are substantial. Fluent
-language can obscure uncertainty, fabricated details can appear plausible, and
-the line between evidence and interpretation can easily blur. These risks are
-not failures of the user alone; they follow directly from how generative models
-produce text. Recognizing this, the approach taken here emphasizes deliberate
-use, transparency, and epistemic humility.
+In research and policy settings, the risks of uncritical AI use are substantial.
+Fluent language can obscure uncertainty, fabricated details can appear plausible,
+and the line between evidence and interpretation can blur. These risks are not
+failures of individual users alone; they follow directly from how generative
+models produce text. Recognizing this, the approach taken here emphasizes
+**deliberate use, systematic review, transparency, and epistemic humility**.
 
 Throughout this book, generative AI is treated as one tool among many in the
-research process. It can be helpful for organizing ideas, synthesizing material,
-and improving clarity, but it cannot evaluate evidence, determine truth, or
-assume accountability. Responsibility for interpretation and conclusions always
-remains with the user.
+analytical process. It can be helpful for organizing ideas, synthesizing material,
+and improving clarity, but it cannot evaluate evidence, determine truth, assess
+risk, or assume accountability. Responsibility for interpretation and conclusions
+always remains with the human analyst or researcher.
 
 This book is written for readers who are curious about generative AI but cautious
-about its implications: researchers, analysts, students, and others engaged in
-inquiry and investigation. Its goal is not to promote efficiency or automation,
-but to support thoughtful engagement with generative AI as an assistant—used
-critically, provisionally, and in service of clearer thinking.
-
-
+about its implications: researchers, policy analysts, health system analysts,
+students, and others engaged in inquiry and investigation. Its goal is not to
+promote efficiency or automation, but to support **thoughtful, disciplined
+engagement** with generative AI as an assistant—used critically, provisionally,
+and in service of clearer thinking.
 
 ## What this book is
 
 This book is a practical and conceptual guide to using generative AI as a
-research assistant. It focuses on how large language models can support research
-and investigative work by helping with:
+research and analysis assistant. It focuses on how large language models can
+support inquiry and analytical work by helping with:
 
-- Structuring questions and lines of inquiry
-- Exploring alternative framings or interpretations
-- Summarizing and synthesizing existing material
-- Making assumptions and uncertainty explicit
-- Improving clarity in analytical and explanatory writing
+- Structuring questions and lines of inquiry  
+- Exploring alternative framings or interpretations  
+- Summarizing and synthesizing existing material  
+- Making assumptions, uncertainty, and trade‑offs explicit  
+- Improving clarity in analytical and explanatory writing  
+- Reviewing and revising AI‑assisted drafts responsibly  
 
+It emphasizes **how AI outputs are evaluated, revised, governed, and integrated**
+into analytical work—not just how they are generated.
 
 ## What this book is not
 
 This book does **not** treat generative AI as:
 
-- A source of factual authority or evidence
-- A decision‑maker or evaluator
-- A replacement for subject‑matter expertise
-- An autonomous research or analysis system
+- A source of factual authority or evidence  
+- A decision‑maker, evaluator, or validator  
+- A replacement for subject‑matter expertise or peer review  
+- An autonomous research or analysis system  
 
-Throughout the book, responsibility for accuracy, interpretation, and
-conclusions remains fully with the human user.
-
-
-
+Throughout the book, responsibility for accuracy, interpretation, judgment, and
+impact remains fully with the human user.
 
 ## How to use this book
 
 Readers may engage with this book in different ways:
 
-- Sequentially, as a conceptual guide to AI‑assisted research
-- Selectively, by focusing on specific patterns or examples
-- Reflectively, as a way to examine their own use of generative AI
-
-Examples and prompts are illustrative rather than prescriptive. They are
-intended to support thoughtful experimentation, not standardization.
-
-
-
-## An epistemic stance
-
-Generative AI systems produce fluent and plausible text, but they do not possess understanding, intent, or epistemic responsibility. As a result, their use in research carries specific risks: overconfidence, fabrication, and the blurring of evidence and inference.
-
-Throughout this book, the emphasis is on epistemic humility—treating AI outputs as provisional, contestable, and in need of human verification. The goal is not efficiency for its own sake, but clarity, transparency, and methodological care.
-
-
-
-## Structure of the book
-
-The chapters that follow address:
-
-- Conceptual foundations and limitations of generative AI
-- Prompt patterns for inquiry, synthesis, and reflection
-- Examples drawn from research and investigative contexts
-- Practical techniques for reviewing and revising AI‑assisted text
-
-Together, these chapters aim to support thoughtful engagement with generative AI
-as an assistant, one tool among many in the research process.
+- Sequentially, as a conceptual guide to AI‑assisted research and analysis  
+- Selectively, by focusing on specific patterns, examples, or review practices  
+- Reflectively, as a way to examine their own use of generative AI in analytical work  
 

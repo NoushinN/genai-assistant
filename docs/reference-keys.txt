@@ -2,8 +2,7 @@ introduction
 what-this-book-is
 what-this-book-is-not
 how-to-use-this-book
-an-epistemic-stance
-structure-of-the-book
+core-principle
 generative-ai-as-a-research-and-investigation-assistant
 purpose
 intended-audience
@@ -61,3 +60,16 @@ documentation-practices
 iterative-use-as-an-analytical-discipline
 review-and-qualityassurance-practices-3
 closing-principle-ai-assists-analysts-decide
+organizational-governance-for-aiassisted-analysis
+acceptable-uses
+nonacceptable-uses
+accountability
+transparency
+failure-modes-in-aiassisted-policy-and-health-analytics
+key-failure-modes
+mitigation
+scope-and-use-of-ai-assistance
+factual-accuracy-and-evidence
+reasoning-and-analytical-integrity
+authorship-and-accountability
+final-check

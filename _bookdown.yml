@@ -3,17 +3,18 @@ output_dir: "docs"
 delete_merged_file: true
 new_session: true
 
-
 rmd_files:
   - "index.Rmd"
+  - "00-executive-summary.Rmd"
   - "preface.Rmd"
   - "01-concepts.Rmd"
   - "02-prompt-patterns.Rmd"
   - "03-examples.Rmd"
   - "04-reviewing-ai-output.Rmd"
-
+  - "05-governance-ai-use.Rmd"
+  - "06-failure-modes.Rmd"
+  - "A-pre-submission-review-checklist.Rmd"
 
 language:
   ui:
     chapter_name: ""
-    
