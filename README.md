@@ -14,7 +14,7 @@ Generative AI can be useful for:
 - Identifying assumptions and gaps
 - Improving clarity and coherence in writing
 
-Generative AI is **not** a source of evidence, authority, or truth.
+Generative AI is not a source of evidence, authority, or truth.
 
 This repository documents patterns that emphasize:
 - Critical use
