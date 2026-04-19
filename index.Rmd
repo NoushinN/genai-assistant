@@ -67,7 +67,7 @@ support inquiry and analytical work by helping with:
 - Improving clarity in analytical and explanatory writing  
 - Reviewing and revising AI‑assisted drafts responsibly  
 
-It emphasizes **how AI outputs are evaluated, revised, governed, and integrated**
+It emphasizes how AI outputs are evaluated, revised, governed, and integrated
 into analytical work—not just how they are generated.
 
 ## What this book is not
