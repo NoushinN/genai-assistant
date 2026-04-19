@@ -1,17 +1,17 @@
 # Failure Modes in AI‑Assisted Policy and Health Analytics
 
-This chapter identifies **subtle but consequential failure modes** that can arise in AI‑assisted analytical work, even when generative AI tools are used with care and good intentions.
+This chapter identifies subtle but consequential failure modes that can arise in AI‑assisted analytical work, even when generative AI tools are used with care and good intentions.
 
-These failure modes are not primarily technical errors. They are **epistemic and organizational risks** that affect how problems are framed, how evidence is interpreted, and how responsibility is exercised—particularly in policy and health analytics, where analysis often informs decisions with real‑world consequences.
+These failure modes are not primarily technical errors. They are epistemic and organizational risks that affect how problems are framed, how evidence is interpreted, and how responsibility is exercised—particularly in policy and health analytics, where analysis often informs decisions with real‑world consequences.
 
 Understanding these failure modes helps analysts recognize when AI assistance is quietly undermining rigor, clarity, or accountability.
 
 ## Why failure modes matter
 
-Generative AI systems produce fluent, plausible text that often aligns with common analytical conventions. This makes their outputs easy to adopt and hard to question. As a result, failures tend to be **invisible rather than dramatic**: uncertainty is smoothed over, assumptions go unexamined, and responsibility becomes diffuse.
+Generative AI systems produce fluent, plausible text that often aligns with common analytical conventions. This makes their outputs easy to adopt and hard to question. As a result, failures tend to be invisible rather than dramatic: uncertainty is smoothed over, assumptions go unexamined, and responsibility becomes diffuse.
 
 > **Practice note**  
-> Most AI‑related analytical failures arise not from misuse, but from *under‑review*.
+> Most AI‑related analytical failures arise not from misuse, but from under‑review.
 
 ## Key failure modes
 
@@ -45,7 +45,7 @@ In policy contexts, framing determines which options appear feasible, relevant, 
 **Mitigation**
 - Generate multiple framings deliberately  
 - Revisit framing after evidence review  
-- Ask explicitly: *What does this framing exclude?*  
+- Ask explicitly: What does this framing exclude?  
 
 ---
 
@@ -100,7 +100,7 @@ Policy and health analytics require clear lines of responsibility for interpreta
 
 ## Mitigation as a discipline, not a checklist
 
-Each failure mode requires **deliberate analytical discipline**, not one‑time safeguards. Effective mitigation relies on:
+Each failure mode requires deliberate analytical discipline, not one‑time safeguards. Effective mitigation relies on:
 
 - Systematic review and revision  
 - Explicit evidence anchoring  

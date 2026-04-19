@@ -1,10 +1,10 @@
 # Generative AI as a Research and Investigation Assistant
 
-This repository explores how **generative AI systems** can be used to support research, investigation, and analytical writing—particularly in **policy, health analytics, and other high‑stakes analytical contexts**.
+This repository explores how generative AI systems can be used to support research, investigation, and analytical writing—particularly in policy, health analytics, and other high‑stakes analytical contexts.
 
-The focus throughout is on **thinking with AI**, not delegating judgment to AI.
+The focus throughout is on thinking with AI, not delegating judgment to AI.
 
-Generative AI is treated as an **assistant and research instrument**: a tool that can help structure inquiry, surface alternatives, and improve clarity, while leaving responsibility for evidence, reasoning, and conclusions firmly with human analysts.
+Generative AI is treated as an assistant and research instrument: a tool that can help structure inquiry, surface alternatives, and improve clarity, while leaving responsibility for evidence, reasoning, and conclusions firmly with human analysts.
 
 ## Purpose
 
@@ -16,7 +16,7 @@ Generative AI can be useful for supporting analytical work such as:
 - Surfacing assumptions, gaps, and uncertainties  
 - Improving clarity, coherence, and accessibility in writing  
 
-However, generative AI is **not** a source of evidence, authority, or truth.  
+However, generative AI is not a source of evidence, authority, or truth.  
 Fluent output does not imply correctness, and confidence does not substitute for validation.
 
 This repository documents patterns of use that emphasize:
@@ -37,7 +37,7 @@ This repository is written for:
 - Students learning research and analytical methods  
 - Teams integrating AI tools into analytical workflows  
 
-While examples are generic, the framing is especially relevant where analysis informs **decisions, resource allocation, or public communication**.
+While examples are generic, the framing is especially relevant where analysis informs decisions, resource allocation, or public communication.
 
 ## What This Repository Covers
 
@@ -51,7 +51,7 @@ The repository is organized to move from principles to practice:
 - Common failure modes and subtle analytical risks  
 - Practical checklists to support pre‑submission review  
 
-Together, these materials support **responsible, disciplined, and transparent** use of generative AI in analytical work.
+Together, these materials support responsible, disciplined, and transparent use of generative AI in analytical work.
 
 ## What This Repository Does Not Cover
 
@@ -67,7 +67,7 @@ The emphasis is methodological and epistemic, not technical.
 
 ## Guiding Principle
 
-**Generative AI may assist reasoning, but responsibility for accuracy, interpretation, and impact remains human.**
+Generative AI may assist reasoning, but responsibility for accuracy, interpretation, and impact remains human.
 
 AI outputs become analytically meaningful only through deliberate review, verification, and judgment.
 

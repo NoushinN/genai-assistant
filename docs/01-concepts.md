@@ -1,6 +1,6 @@
 # Conceptual Foundations
 
-Generative AI systems are increasingly positioned as assistants in research and investigative work. This book adopts that framing deliberately, while also setting clear limits on what such systems can and cannot do. The central concern is not efficiency or automation, but how AI tools can support *thinking* without displacing judgment, responsibility, or methodological care.
+Generative AI systems are increasingly positioned as assistants in research and investigative work. This book adopts that framing deliberately, while also setting clear limits on what such systems can and cannot do. The central concern is not efficiency or automation, but how AI tools can support thinking without displacing judgment, responsibility, or methodological care.
 
 ## Thinking with AI, not delegating judgment
 
@@ -18,7 +18,7 @@ Within these limits, generative AI can support several aspects of research and i
 - Making assumptions and gaps more visible
 - Improving clarity and coherence in analytical writing
 
-These capabilities are best understood as *supportive* rather than decisive. They shape the space of possible interpretations but do not resolve questions of truth or relevance.
+These capabilities are best understood as supportive rather than decisive. They shape the space of possible interpretations but do not resolve questions of truth or relevance.
 
 ## Epistemic responsibility and accountability
 

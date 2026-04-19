@@ -48,7 +48,7 @@ This book documents patterns that emphasize:
 
 ## Guiding Principle
 
-**AI may assist reasoning, but responsibility for accuracy remains human.**
+AI may assist reasoning, but responsibility for accuracy remains human.
 
 ## Disclaimer
 

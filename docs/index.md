@@ -25,21 +25,21 @@ Generative artificial intelligence systems are increasingly used to draft,
 summarize, and explain complex material. They are embedded in everyday tools and
 often described as assistants, copilots, or collaborators. Despite their rapid
 adoption, there is little shared understanding of what it means to use generative
-AI *well* in research, policy, and analytical contexts.
+AI well in research, policy, and analytical contexts.
 
-This book approaches generative AI as an **assistant to thinking**, not as a
+This book approaches generative AI as an assistant to thinking, not as a
 source of authority. Rather than treating AI outputs as answers, it treats them
 as prompts for reflection: ways to surface assumptions, explore alternative
 framings, clarify arguments, and identify gaps in reasoning or evidence. The
-central premise is that generative AI can support analytical work **without
-replacing human judgment, responsibility, or methodological care**.
+central premise is that generative AI can support analytical work without
+replacing human judgment, responsibility, or methodological care.
 
 In research and policy settings, the risks of uncritical AI use are substantial.
 Fluent language can obscure uncertainty, fabricated details can appear plausible,
 and the line between evidence and interpretation can blur. These risks are not
 failures of individual users alone; they follow directly from how generative
 models produce text. Recognizing this, the approach taken here emphasizes
-**deliberate use, systematic review, transparency, and epistemic humility**.
+deliberate use, systematic review, transparency, and epistemic humility.
 
 Throughout this book, generative AI is treated as one tool among many in the
 analytical process. It can be helpful for organizing ideas, synthesizing material,
@@ -50,8 +50,8 @@ always remains with the human analyst or researcher.
 This book is written for readers who are curious about generative AI but cautious
 about its implications: researchers, policy analysts, health system analysts,
 students, and others engaged in inquiry and investigation. Its goal is not to
-promote efficiency or automation, but to support **thoughtful, disciplined
-engagement** with generative AI as an assistant—used critically, provisionally,
+promote efficiency or automation, but to support thoughtful, disciplined
+engagement with generative AI as an assistant—used critically, provisionally,
 and in service of clearer thinking.
 
 ## What this book is
@@ -72,7 +72,7 @@ into analytical work—not just how they are generated.
 
 ## What this book is not
 
-This book does **not** treat generative AI as:
+This book does not treat generative AI as:
 
 - A source of factual authority or evidence  
 - A decision‑maker, evaluator, or validator  

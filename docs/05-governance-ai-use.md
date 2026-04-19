@@ -1,8 +1,8 @@
 # Organizational Governance for AI‑Assisted Analysis
 
-This chapter outlines governance principles for the responsible use of **generative AI assistants** in policy and health analytics. Governance here is not understood as technical control or prohibition, but as a set of **norms, expectations, and review practices** that preserve analytical integrity, accountability, and trust.
+This chapter outlines governance principles for the responsible use of generative AI assistants in policy and health analytics. Governance here is not understood as technical control or prohibition, but as a set of **norms, expectations, and review practices** that preserve analytical integrity, accountability, and trust.
 
-Because AI‑assisted analysis can influence decisions, resource allocation, and public communication, the question is not whether AI is used, but **under what conditions its use remains responsible**.
+Because AI‑assisted analysis can influence decisions, resource allocation, and public communication, the question is not whether AI is used, but under what conditions its use remains responsible.
 
 ## Purpose of governance in AI‑assisted analysis
 
@@ -13,7 +13,7 @@ In policy and health contexts, analytical work is accountable not only to standa
 
 ## Acceptable uses
 
-Generative AI assistance is appropriate when it is used to **support analytical thinking and communication**, while leaving evaluative judgment with human analysts.
+Generative AI assistance is appropriate when it is used to support analytical thinking and communication, while leaving evaluative judgment with human analysts.
 
 Acceptable uses include:
 
@@ -31,7 +31,7 @@ Acceptable uses include:
 
 ## Non‑acceptable uses
 
-Generative AI assistance is **not appropriate** where it would substitute for evidence, expertise, or accountability.
+Generative AI assistance is not appropriate where it would substitute for evidence, expertise, or accountability.
 
 Non‑acceptable uses include:
 
@@ -62,7 +62,7 @@ This means that analysts must be able to:
 
 ## Transparency and disclosure
 
-Transparency about AI use supports trust, interpretability, and appropriate review. Disclosure should be **proportionate** to the role AI played in the work and focused on helping readers understand how conclusions were reached.
+Transparency about AI use supports trust, interpretability, and appropriate review. Disclosure should be proportionate to the role AI played in the work and focused on helping readers understand how conclusions were reached.
 
 In many contexts, this does not require detailed prompt logs, but it does require clarity about:
 
@@ -78,6 +78,6 @@ In many contexts, this does not require detailed prompt logs, but it does requir
 
 ## Governance as a supporting structure
 
-Effective governance does not seek to eliminate AI use, but to **embed it within existing analytical standards**: evidence review, peer scrutiny, documentation, and accountability.
+Effective governance does not seek to eliminate AI use, but to embed it within existing analytical standards: evidence review, peer scrutiny, documentation, and accountability.
 
-Used in this way, governance functions as an enabling structure—one that allows generative AI to support analytical work **without undermining trust, rigor, or responsibility**.
+Used in this way, governance functions as an enabling structure—one that allows generative AI to support analytical work without undermining trust, rigor, or responsibility.

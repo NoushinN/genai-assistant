@@ -2,7 +2,7 @@
 
 This chapter presents illustrative examples of how generative AI can be used in research and investigative contexts. The examples are intentionally generic. Their purpose is not to prescribe workflows, endorse specific tools, or define best practices, but to demonstrate patterns of use that align with the conceptual and normative commitments outlined in earlier chapters.
 
-Across all examples, the emphasis is on *how* AI outputs are interpreted and integrated, rather than on the outputs themselves. The value of AI assistance lies not in producing answers, but in supporting human sense‑making, reflection, and revision.
+Across all examples, the emphasis is on how AI outputs are interpreted and integrated, rather than on the outputs themselves. The value of AI assistance lies not in producing answers, but in supporting human sense‑making, reflection, and revision.
 
 ## Early‑stage inquiry
 
@@ -102,6 +102,6 @@ In each case, the system provides material to think with, not conclusions to acc
 
 ## Transition: from examples to practice
 
-The examples in this chapter illustrate *what* AI‑assisted work can look like when used in support of inquiry rather than as a substitute for judgment. The next chapter builds on these illustrations by turning to practice: how to review, document, and govern AI‑assisted work in ways that make assumptions visible, decisions traceable, and responsibility clear.
+The examples in this chapter illustrate what AI‑assisted work can look like when used in support of inquiry rather than as a substitute for judgment. The next chapter builds on these illustrations by turning to practice: how to review, document, and govern AI‑assisted work in ways that make assumptions visible, decisions traceable, and responsibility clear.
 
-Where this chapter focuses on patterns of use, the following chapter addresses patterns of *oversight*—closing the loop between exploration, interpretation, and accountability.
+Where this chapter focuses on patterns of use, the following chapter addresses patterns of oversight—closing the loop between exploration, interpretation, and accountability.

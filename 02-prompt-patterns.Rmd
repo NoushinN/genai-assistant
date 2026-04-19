@@ -2,13 +2,13 @@
 
 Prompts are the primary mechanism through which users interact with generative AI systems. In research and analytical contexts, prompts are most effective when they are designed to support inquiry, reflection, and sense‑making rather than answer‑seeking or decision‑making. How a prompt is framed shapes not only what the system produces, but also how its output is interpreted and used.
 
-This chapter treats prompting as a methodological practice rather than a technical trick. The emphasis is on using prompts to *open up* lines of inquiry, surface alternatives, and make reasoning more explicit—while keeping evaluative judgment and responsibility firmly with the researcher.
+This chapter treats prompting as a methodological practice rather than a technical trick. The emphasis is on using prompts to open up lines of inquiry, surface alternatives, and make reasoning more explicit—while keeping evaluative judgment and responsibility firmly with the researcher.
 
 ## Prompts as research instruments
 
 A prompt can be understood as a research instrument. Like other instruments, it frames a task, constrains the space of possible responses, and implicitly encodes assumptions about what matters, what is fixed, and what is open to interpretation. Thoughtful prompting therefore requires attention not only to what is being asked, but to what kinds of reasoning are being invited—and what kinds are being excluded.
 
-In this sense, prompts are not neutral. A prompt that asks for a conclusion, recommendation, or “best answer” implicitly shifts authority to the system’s output. By contrast, prompts that ask for perspectives, contrasts, alternative framings, or conditional analyses reinforce the exploratory nature of the interaction. They position the AI as a tool for generating material *to think with*, rather than as a source of determinate answers.
+In this sense, prompts are not neutral. A prompt that asks for a conclusion, recommendation, or “best answer” implicitly shifts authority to the system’s output. By contrast, prompts that ask for perspectives, contrasts, alternative framings, or conditional analyses reinforce the exploratory nature of the interaction. They position the AI as a tool for generating material to think with, rather than as a source of determinate answers.
 
 Designing prompts as research instruments supports disciplined inquiry while preserving the researcher’s role as the final arbiter of relevance, adequacy, and meaning.
 
@@ -20,7 +20,7 @@ The following prompt patterns recur throughout this book. They are presented not
 
 Prompts can be used to decompose broad, ambiguous, or ill‑defined topics into more manageable sub‑questions or lines of inquiry. This is particularly useful at early stages of research, when the problem space itself is still being clarified.
 
-The value of this pattern lies in generating *candidates* for further investigation. The resulting questions should not be treated as exhaustive, definitive, or hierarchically ordered. Instead, they serve as a working map that the researcher can refine, prune, or reorganize based on domain knowledge and evolving analytical goals.
+The value of this pattern lies in generating candidates for further investigation. The resulting questions should not be treated as exhaustive, definitive, or hierarchically ordered. Instead, they serve as a working map that the researcher can refine, prune, or reorganize based on domain knowledge and evolving analytical goals.
 
 #### Mini‑example: decomposing an ill‑defined problem
 
@@ -110,12 +110,12 @@ This can create a false sense of methodological completeness.
 
 Adding constraints—such as intended audience, scope, uncertainty, or acceptable levels of confidence—helps reinforce the exploratory and provisional nature of AI‑assisted work. Constraints do not narrow thinking so much as they discipline it, making explicit the conditions under which an output might be useful.
 
-Throughout this book, prompts are treated as tools for *thinking with AI*, not as instructions for delegating analytical responsibility. Effective prompting does not eliminate the need for review, verification, or judgment; it makes those activities more focused and more transparent.
+Throughout this book, prompts are treated as tools for thinking with AI, not as instructions for delegating analytical responsibility. Effective prompting does not eliminate the need for review, verification, or judgment; it makes those activities more focused and more transparent.
 
 Used well, prompt patterns can support clarity without false certainty and exploration without abdication of responsibility. Used uncritically, they risk producing polished outputs that mask unresolved questions. The difference lies not in the prompt itself, but in how its results are interpreted and acted upon.
 
 ## Transition: from prompting to evaluation
 
-This chapter has focused on how prompts can be designed to support inquiry, synthesis, and reflexive analysis. The next chapter shifts attention from *elicitation* to *evaluation*: how AI‑assisted outputs can be reviewed, documented, and governed in ways that preserve accountability and analytical integrity.
+This chapter has focused on how prompts can be designed to support inquiry, synthesis, and reflexive analysis. The next chapter shifts attention from elicitation to evaluation: how AI‑assisted outputs can be reviewed, documented, and governed in ways that preserve accountability and analytical integrity.
 
 Where prompting shapes what is produced, evaluation determines what is accepted, revised, or rejected. Together, these practices form the backbone of responsible AI‑assisted research.
