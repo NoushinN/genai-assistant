@@ -8,6 +8,11 @@ Generative AI is treated as an assistant and research instrument: a tool that ca
 
 ## Purpose
 
+This project is a conceptual and practical guide to using generative AI systems as assistants in research, policy analysis, and health analytics. 
+It focuses on how AI tools can support inquiry, drafting, synthesis, and review without displacing human judgment, evidence standards, or accountability.
+
+The emphasis is on thinking with AI, not automating conclusions. Generative AI is treated as a research instrument whose outputs require deliberate review, verification, and interpretation.
+
 Generative AI can be useful for supporting analytical work such as:
 
 - Structuring complex or ill‑defined questions  
@@ -70,6 +75,31 @@ The emphasis is methodological and epistemic, not technical.
 Generative AI may assist reasoning, but responsibility for accuracy, interpretation, and impact remains human.
 
 AI outputs become analytically meaningful only through deliberate review, verification, and judgment.
+
+
+
+
+
+## Intended audience
+
+This project is written for:
+
+- Policy analysts and health system analysts  
+- Researchers working in applied or exploratory contexts  
+- Investigative writers and evaluators  
+- Students learning research and analytical methods  
+- Managers and reviewers overseeing AI‑assisted analytical work  
+
+While examples are generic, the framing is especially relevant where analysis informs decisions, resource allocation, or public communication.
+
+
+
+## How to cite or reuse
+
+This material is intended for educational and professional use. If you reuse or adapt content from this repository, please cite the project and preserve its emphasis on responsible, accountable use of generative AI.
+Unless otherwise stated, content reflects general analytical practice and does not represent formal policy or institutional guidance.
+
+
 
 ## Disclaimer
 

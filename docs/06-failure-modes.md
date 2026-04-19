@@ -95,7 +95,7 @@ Policy and health analytics require clear lines of responsibility for interpreta
 > A questionable claim is left unchallenged because it “came from the AI” and no one revisits the underlying reasoning.
 
 **Mitigation**
-Many of the failure modes described in this chapter arise not from misuse, but from insufficient review; Chapter 5 discusses review and revision as an analytical discipline that mitigates these risks.
+Many of the failure modes described in this chapter arise not from misuse, but from insufficient review; Organizational Governance for AI‑Assisted Analysis chapter discusses review and revision as an analytical discipline that mitigates these risks.
 
 - Reinforce authorship and accountability norms  
 - Require analysts to defend all claims in their own words  
