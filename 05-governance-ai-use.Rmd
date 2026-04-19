@@ -91,3 +91,32 @@ Effective governance does not seek to eliminate AI use, but to embed it within e
 Used in this way, governance functions as an enabling structure—one that allows generative AI to support analytical work without undermining trust, rigor, or responsibility.
 
 These review practices are operationalized in Appendix A; see Figure.
+
+These governance expectations are reflected in the alignment between review workflow and checklist practices shown in Appendix A Figure
+
+### Cross-walk: review dimensions mapped to workflow stages
+
+| Review dimension | Stage 1: Draft & framing | Stage 2: Verification | Stage 3: Reasoning & uncertainty | Stage 4: Sign-off & disclosure |
+|---|:---:|:---:|:---:|:---:|
+| Scope & use of AI assistance | ✓ |  |  | ✓ |
+| Framing and problem definition | ✓ |  | ✓ (re-check) |  |
+| Factual accuracy & evidence discipline |  | ✓ | ✓ (claims match strength) |  |
+| Reasoning, uncertainty, analytical integrity |  |  | ✓ | ✓ (final check) |
+| Balance, alternatives, contested issues |  |  | ✓ |  |
+| Authorship, voice, accountability |  |  |  | ✓ |
+| Transparency & disclosure |  |  |  | ✓ |
+
+### Governance lens: what reviewers should look for
+
+Governance is strengthened when review makes AI influence visible. The following dimensions help reviewers and managers identify where AI assistance may have crossed boundaries or introduced subtle analytical risks:
+
+- **Use and scope:** Was AI used to support drafting and reflection rather than validation or decision-making?
+- **Framing:** Did AI outputs lock in problem framing or obscure alternatives?
+- **Evidence discipline:** Are factual claims anchored to sources, with no fabricated details or pseudo-citations?
+- **Reasoning and uncertainty:** Are assumptions explicit and confidence proportional to evidence?
+- **Balance:** Are contested issues presented with attention to evidence asymmetry?
+- **Authorship:** Is accountability clear and attributable?
+- **Transparency:** Is AI use explainable and disclosed where appropriate?
+
+Appendix A operationalizes these checks as a stage-based pre-submission checklist.
+

@@ -50,6 +50,10 @@ This book documents patterns that emphasize:
 
 AI may assist reasoning, but responsibility for accuracy remains human.
 
+If you’re new to AI → read Chapters 1–3
+If you review AI‑assisted work → read Chapters 4–6 + Appendix A
+If you manage or govern → read Chapters 5–6 + Appendix A
+
 ## Disclaimer
 
 This book reflects general research and writing practices. It does not represent the views, guidance, or policies of any employer, organization, or institution.

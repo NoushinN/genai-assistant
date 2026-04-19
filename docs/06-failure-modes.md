@@ -95,6 +95,8 @@ Policy and health analytics require clear lines of responsibility for interpreta
 > A questionable claim is left unchallenged because it “came from the AI” and no one revisits the underlying reasoning.
 
 **Mitigation**
+Many of the failure modes described in this chapter arise not from misuse, but from insufficient review; Chapter 5 discusses review and revision as an analytical discipline that mitigates these risks.
+
 - Reinforce authorship and accountability norms  
 - Require analysts to defend all claims in their own words  
 - Treat AI output as input, not attribution  
@@ -122,3 +124,5 @@ The figure below synthesizes the relationship between recurring failure modes an
 Failure modes in AI‑assisted analysis are rarely obvious. They accumulate quietly through small shifts in tone, framing, and responsibility. Recognizing these patterns is a precondition for responsible use.
 
 Used with awareness and discipline, generative AI can support analytical work without compromising rigor. Used without it, the same tools can subtly erode the very standards they are meant to assist.
+
+This book does not resolve questions of legal liability, procurement policy, or model evaluation. Its focus is on analytical practice and responsibility, not institutional compliance.

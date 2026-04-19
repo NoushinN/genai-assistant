@@ -10,6 +10,88 @@ The figure below summarizes a review pipeline that turns AI-assisted drafting in
 knitr::include_graphics("review_pipeline.png")
 ```
 
+## Review dimensions (what to check, beyond “is it factually correct?”)
+
+AI-assisted drafts require review across multiple dimensions. The goal is not only to correct factual errors, but to ensure that reasoning, uncertainty, and accountability remain explicit and defensible.
+
+The categories below describe what to review; Appendix A provides the stage-based checklist describing when these checks typically occur.
+
+### 1) Scope and use of AI assistance (governance alignment)
+
+Use is acceptable when AI supports framing, drafting, and reflection without substituting for judgment or validation.
+
+- Ensure AI assistance supported thinking and expression, not decision-making or evaluation.
+- Ensure AI output is not treated—explicitly or implicitly—as evidence, validation, or authority.
+- Ensure AI use did not substitute for subject-matter expertise, peer review, or institutional oversight.
+
+> **Risks mitigated:** diffusion of responsibility; framing lock-in
+
+### 2) Framing and problem definition
+
+AI can influence framing early and subtly; review should make framing choices intentional rather than inherited.
+
+- Confirm the framing was chosen intentionally rather than adopted from early AI output.
+- Confirm alternative framings were considered or consciously ruled out.
+- Confirm the framing does not silently privilege one objective (e.g., efficiency) over others (e.g., equity, feasibility).
+- Confirm you can articulate what the framing includes and excludes.
+
+> **Risks mitigated:** framing lock-in; invisible assumptions
+
+### 3) Factual accuracy and evidence discipline
+
+AI-generated content can be plausible while wrong. Fluency is not evidence.
+
+- Verify all factual claims introduced or modified with AI assistance against primary or authoritative sources.
+- Remove fabricated statistics, examples, references, or pseudo-citations.
+- Confirm jurisdiction, population, timeframe, and system context are correct and explicit.
+- Ensure summaries are not used as substitutes for engagement with source material.
+
+> **Risks mitigated:** fluency masking uncertainty; false balance
+
+### 4) Reasoning, uncertainty, and analytical integrity
+
+Even when facts are correct, reasoning can be weak, overconfident, or assumption-heavy.
+
+- Confirm conclusions follow logically from premises and evidence.
+- Make key assumptions explicit (data, causal, implementation-related).
+- Ensure uncertainty, limitations, and evidence gaps are stated clearly and proportionately.
+- Ensure claims are not stronger than the supporting evidence allows.
+- Distinguish normative judgments from empirical claims.
+
+> **Risks mitigated:** fluency masking uncertainty; invisible assumptions
+
+### 5) Balance, alternatives, and contested issues
+
+AI may present symmetry where evidence is asymmetric.
+
+- Ensure differences in evidence quality are acknowledged when multiple perspectives are presented.
+- Avoid presenting competing views as symmetrical unless analytically justified.
+- Ensure marginal or weakly supported positions are not inflated through neutral framing.
+- Surface trade-offs and value judgments rather than obscuring them.
+
+> **Risks mitigated:** false balance
+
+### 6) Authorship, voice, and accountability
+
+AI assistance should not blur responsibility for claims or conclusions.
+
+- Ensure the document reflects a clear human analytical voice consistent with organizational norms.
+- Ensure you can defend every claim, framing choice, and conclusion in your own words.
+- Ensure responsibility is clearly attributable to the analyst or team.
+- Ensure no claim remains solely because “the AI suggested it.”
+
+> **Risks mitigated:** diffusion of responsibility
+
+### 7) Transparency and disclosure (where appropriate)
+
+Transparency supports interpretability and trust.
+
+- Be able to explain how AI assistance shaped the analytical process if asked.
+- Ensure required disclosures are accurate, proportionate, and clear.
+- Describe AI as supporting functions, not delegated authority.
+
+> **Risks mitigated:** diffusion of responsibility
+
 ## Methodological disclaimer: limits of AI‑assisted drafting
 
 Generative AI systems generate text based on statistical patterns learned during training and the context provided at use time. They do not have access to authoritative data sources unless explicitly provided, do not evaluate evidence quality, and do not understand policy context, legal constraints, or health system realities.
@@ -139,3 +221,5 @@ Iteration introduces friction, and that friction is a feature—not a flaw—of 
 Across all stages of review and revision, the governing principle remains consistent: generative AI assists, but analysts decide. Responsibility for accuracy, reasoning, interpretation, and impact cannot be delegated.
 
 Used with discipline, AI‑assisted drafting can improve clarity and efficiency without compromising rigor. Used without it, the same tools can obscure uncertainty and weaken accountability. The difference lies not in the technology, but in the review practices that surround it.
+
+The review practices described in this chapter are operationalized in Appendix A, which provides a stage‑based pre‑submission checklist for AI‑assisted analytical work.
