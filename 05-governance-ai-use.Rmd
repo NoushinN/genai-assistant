@@ -1,8 +1,15 @@
 # Organizational Governance for AI‑Assisted Analysis
 
-This chapter outlines governance principles for the responsible use of generative AI assistants in policy and health analytics. Governance here is not understood as technical control or prohibition, but as a set of **norms, expectations, and review practices** that preserve analytical integrity, accountability, and trust.
+This chapter outlines governance principles for the responsible use of generative AI assistants in policy and health analytics. Governance here is not understood as technical control or prohibition, but as a set of norms, expectations, and review practices that preserve analytical integrity, accountability, and trust.
 
 Because AI‑assisted analysis can influence decisions, resource allocation, and public communication, the question is not whether AI is used, but under what conditions its use remains responsible.
+
+The figure below summarizes the governance boundary that underpins the rest of this chapter.
+
+
+```{r governance-boundary-figure, echo=FALSE, fig.cap="Governance boundary for AI‑assisted analysis. Generative AI may support framing, drafting, and review, but must not cross into evidence generation, validation, or decision‑making.", out.width="90%", fig.align="center"}
+knitr::include_graphics("governance_boundary.png")
+```
 
 ## Purpose of governance in AI‑assisted analysis
 
@@ -47,6 +54,7 @@ Non‑acceptable uses include:
 > **Common failure mode**  
 > Using AI‑generated summaries or comparisons as if they represented evidentiary consensus, without engaging with the underlying sources.
 
+
 ## Accountability and authorship
 
 Accountability for AI‑assisted work remains fully human. The use of AI does not dilute professional responsibility, institutional accountability, or authorship.
@@ -81,3 +89,5 @@ In many contexts, this does not require detailed prompt logs, but it does requir
 Effective governance does not seek to eliminate AI use, but to embed it within existing analytical standards: evidence review, peer scrutiny, documentation, and accountability.
 
 Used in this way, governance functions as an enabling structure—one that allows generative AI to support analytical work without undermining trust, rigor, or responsibility.
+
+These review practices are operationalized in Appendix A; see Figure.

@@ -2,6 +2,16 @@
 
 Generative AI systems are increasingly positioned as assistants in research and investigative work. This book adopts that framing deliberately, while also setting clear limits on what such systems can and cannot do. The central concern is not efficiency or automation, but how AI tools can support thinking without displacing judgment, responsibility, or methodological care.
 
+
+The figure below summarizes the human‑led lifecycle that frames the use of generative AI throughout this book.
+
+
+<div class="figure" style="text-align: center">
+<img src="lifecycle.png" alt="AI-assisted analysis as a human-led lifecycle. Generative AI contributes to exploration and drafting, while verification, judgment, and accountability remain human responsibilities." width="100%" />
+<p class="caption">(\#fig:lifecycle-figure)AI-assisted analysis as a human-led lifecycle. Generative AI contributes to exploration and drafting, while verification, judgment, and accountability remain human responsibilities.</p>
+</div>
+
+
 ## Thinking with AI, not delegating judgment
 
 To describe generative AI as a research assistant is to make a normative claim about use. An assistant supports inquiry but does not determine its direction, validate its conclusions, or assume responsibility for its outcomes. In this book, AI systems are treated as instruments that participate in human reasoning processes rather than substitutes for them.

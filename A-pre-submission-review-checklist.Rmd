@@ -2,7 +2,7 @@
 
 This checklist supports responsible use of generative AI assistants in policy and health analytics. It is intended for use before circulation, briefing, or publication of any analytical product that involved AI assistance at any stage.
 
-The checklist operationalizes the governance principles and failure modes described in Chapters 5 and 6.
+The checklist operationalizes the governance principles and failure modes described in Chapters 5 and 6. 
 
 ---
 
@@ -80,6 +80,17 @@ The checklist operationalizes the governance principles and failure modes descri
 - [ ] AI use is described in terms of supporting functions, not delegated authority.
 
 ---
+
+
+The figure below shows how the pre‑submission checklist aligns with the review workflow and governance principles described earlier in the book.
+
+
+```{r checklist-workflow-alignment-figure, echo=FALSE, fig.cap="Alignment between the pre-submission review checklist, the AI-assisted review pipeline, and governance boundaries.", out.width="100%", fig.align="center"}
+knitr::include_graphics("checklist_workflow_alignment.png")
+```
+
+
+Read this figure from top to bottom: the checklist is not an add-on, but a condensed representation of the same review and accountability practices applied throughout the analytical workflow.
 
 ## Final integrity check
 

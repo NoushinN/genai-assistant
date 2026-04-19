@@ -4,6 +4,12 @@ Responsible use of generative AI in policy and health analytics requires systema
 
 The central principle is straightforward: AI‑generated text is always provisional. It becomes part of an analytical product only through deliberate human evaluation, verification, and integration.
 
+The figure below summarizes a review pipeline that turns AI-assisted drafting into an accountable analytical workflow.
+
+```{r review-pipeline-figure, echo=FALSE, fig.cap="Review pipeline for AI-assisted drafts. The workflow emphasizes fact-checking, reasoning review, uncertainty discipline, and explicit accountability before circulation or briefing.", out.width="100%", fig.align="center"}
+knitr::include_graphics("review_pipeline.png")
+```
+
 ## Methodological disclaimer: limits of AI‑assisted drafting
 
 Generative AI systems generate text based on statistical patterns learned during training and the context provided at use time. They do not have access to authoritative data sources unless explicitly provided, do not evaluate evidence quality, and do not understand policy context, legal constraints, or health system realities.
@@ -29,6 +35,14 @@ Fluency, specificity, and technical language are not indicators of reliability.
 
 > **Common failure mode**  
 > Treating AI‑generated background context as “general knowledge” that does not require citation or verification.
+
+
+The figure below illustrates how to maintain traceability from primary sources to analytical claims in AI-assisted writing.
+
+```{r traceability-ladder-figure, echo=FALSE, fig.cap="Evidence-to-claim traceability ladder. AI may assist with wording and structure, but every claim should be traceable to a source or explicitly labeled as an assumption or uncertainty.", out.width="95%", fig.align="center"}
+knitr::include_graphics("traceability_ladder.png")
+```
+
 
 ### Review and quality‑assurance practices
 

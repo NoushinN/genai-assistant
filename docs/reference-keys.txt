@@ -1,3 +1,10 @@
+fig:lifecycle-figure
+fig:prompt-recipe-card-figure
+fig:review-pipeline-figure
+fig:traceability-ladder-figure
+fig:governance-boundary-figure
+fig:failure-modes-map-figure
+fig:checklist-workflow-alignment-figure
 introduction
 what-this-book-is
 what-this-book-is-not

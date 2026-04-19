@@ -4,6 +4,15 @@ Prompts are the primary mechanism through which users interact with generative A
 
 This chapter treats prompting as a methodological practice rather than a technical trick. The emphasis is on using prompts to open up lines of inquiry, surface alternatives, and make reasoning more explicit—while keeping evaluative judgment and responsibility firmly with the researcher.
 
+
+The figure below provides a reusable prompt “recipe card” designed for policy and health analytics workflows.
+
+
+<div class="figure" style="text-align: center">
+<img src="prompt_recipe_card.png" alt="Prompt recipe card for inquiry and synthesis. A structured prompt clarifies context, task, constraints, format, and uncertainty without delegating judgment." width="95%" />
+<p class="caption">(\#fig:prompt-recipe-card-figure)Prompt recipe card for inquiry and synthesis. A structured prompt clarifies context, task, constraints, format, and uncertainty without delegating judgment.</p>
+</div>
+
 ## Prompts as research instruments
 
 A prompt can be understood as a research instrument. Like other instruments, it frames a task, constrains the space of possible responses, and implicitly encodes assumptions about what matters, what is fixed, and what is open to interpretation. Thoughtful prompting therefore requires attention not only to what is being asked, but to what kinds of reasoning are being invited—and what kinds are being excluded.

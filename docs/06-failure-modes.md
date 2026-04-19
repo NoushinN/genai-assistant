@@ -6,6 +6,7 @@ These failure modes are not primarily technical errors. They are epistemic and o
 
 Understanding these failure modes helps analysts recognize when AI assistance is quietly undermining rigor, clarity, or accountability.
 
+
 ## Why failure modes matter
 
 Generative AI systems produce fluent, plausible text that often aligns with common analytical conventions. This makes their outputs easy to adopt and hard to question. As a result, failures tend to be invisible rather than dramatic: uncertainty is smoothed over, assumptions go unexamined, and responsibility becomes diffuse.
@@ -108,6 +109,13 @@ Each failure mode requires deliberate analytical discipline, not one‑time safe
 - Peer or supervisory scrutiny  
 
 These practices are most effective when embedded in routine workflows, rather than applied selectively or after the fact.
+
+The figure below synthesizes the relationship between recurring failure modes and the review practices that mitigate them.
+
+<div class="figure" style="text-align: center">
+<img src="failure_modes_map.png" alt="Common failure modes in AI‑assisted policy and health analytics and corresponding mitigation practices. Most risks arise from under‑review rather than misuse." width="100%" />
+<p class="caption">(\#fig:failure-modes-map-figure)Common failure modes in AI‑assisted policy and health analytics and corresponding mitigation practices. Most risks arise from under‑review rather than misuse.</p>
+</div>
 
 ## Closing reflection
 
