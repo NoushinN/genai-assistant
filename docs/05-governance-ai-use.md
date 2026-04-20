@@ -7,10 +7,14 @@ Because AI‑assisted analysis can influence decisions, resource allocation, and
 The figure below summarizes the governance boundary that underpins the rest of this chapter.
 
 
-<div class="figure" style="text-align: center">
-<img src="governance_boundary.png" alt="Governance boundary for AI‑assisted analysis. Generative AI may support framing, drafting, and review, but must not cross into evidence generation, validation, or decision‑making." width="90%" />
-<p class="caption">(\#fig:governance-boundary-figure)Governance boundary for AI‑assisted analysis. Generative AI may support framing, drafting, and review, but must not cross into evidence generation, validation, or decision‑making.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.9\linewidth]{governance_boundary} 
+
+}
+
+\caption{Governance boundary for AI‑assisted analysis. Generative AI may support framing, drafting, and review, but must not cross into evidence generation, validation, or decision‑making.}(\#fig:governance-boundary-figure)
+\end{figure}
 
 ## Purpose of governance in AI‑assisted analysis
 

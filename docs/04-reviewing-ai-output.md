@@ -6,10 +6,14 @@ The central principle is straightforward: AI‑generated text is always provisio
 
 The figure below summarizes a review pipeline that turns AI-assisted drafting into an accountable analytical workflow.
 
-<div class="figure" style="text-align: center">
-<img src="review_pipeline.png" alt="Review pipeline for AI-assisted drafts. The workflow emphasizes fact-checking, reasoning review, uncertainty discipline, and explicit accountability before circulation or briefing." width="100%" />
-<p class="caption">(\#fig:review-pipeline-figure)Review pipeline for AI-assisted drafts. The workflow emphasizes fact-checking, reasoning review, uncertainty discipline, and explicit accountability before circulation or briefing.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{review_pipeline} 
+
+}
+
+\caption{Review pipeline for AI-assisted drafts. The workflow emphasizes fact-checking, reasoning review, uncertainty discipline, and explicit accountability before circulation or briefing.}(\#fig:review-pipeline-figure)
+\end{figure}
 
 ## Review dimensions (what to check, beyond “is it factually correct?”)
 
@@ -122,10 +126,14 @@ Fluency, specificity, and technical language are not indicators of reliability.
 
 The figure below illustrates how to maintain traceability from primary sources to analytical claims in AI-assisted writing.
 
-<div class="figure" style="text-align: center">
-<img src="traceability_ladder.png" alt="Evidence-to-claim traceability ladder. AI may assist with wording and structure, but every claim should be traceable to a source or explicitly labeled as an assumption or uncertainty." width="95%" />
-<p class="caption">(\#fig:traceability-ladder-figure)Evidence-to-claim traceability ladder. AI may assist with wording and structure, but every claim should be traceable to a source or explicitly labeled as an assumption or uncertainty.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.95\linewidth]{traceability_ladder} 
+
+}
+
+\caption{Evidence-to-claim traceability ladder. AI may assist with wording and structure, but every claim should be traceable to a source or explicitly labeled as an assumption or uncertainty.}(\#fig:traceability-ladder-figure)
+\end{figure}
 
 
 ### Review and quality‑assurance practices

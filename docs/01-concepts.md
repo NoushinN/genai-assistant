@@ -6,10 +6,14 @@ Generative AI systems are increasingly positioned as assistants in research and 
 The figure below summarizes the human‑led lifecycle that frames the use of generative AI throughout this book.
 
 
-<div class="figure" style="text-align: center">
-<img src="lifecycle.png" alt="AI-assisted analysis as a human-led lifecycle. Generative AI contributes to exploration and drafting, while verification, judgment, and accountability remain human responsibilities." width="100%" />
-<p class="caption">(\#fig:lifecycle-figure)AI-assisted analysis as a human-led lifecycle. Generative AI contributes to exploration and drafting, while verification, judgment, and accountability remain human responsibilities.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{lifecycle} 
+
+}
+
+\caption{AI-assisted analysis as a human-led lifecycle. Generative AI contributes to exploration and drafting, while verification, judgment, and accountability remain human responsibilities.}(\#fig:lifecycle-figure)
+\end{figure}
 
 
 ## Thinking with AI, not delegating judgment

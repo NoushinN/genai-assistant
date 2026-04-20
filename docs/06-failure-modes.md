@@ -114,10 +114,14 @@ These practices are most effective when embedded in routine workflows, rather th
 
 The figure below synthesizes the relationship between recurring failure modes and the review practices that mitigate them.
 
-<div class="figure" style="text-align: center">
-<img src="failure_modes_map.png" alt="Common failure modes in AI‑assisted policy and health analytics and corresponding mitigation practices. Most risks arise from under‑review rather than misuse." width="100%" />
-<p class="caption">(\#fig:failure-modes-map-figure)Common failure modes in AI‑assisted policy and health analytics and corresponding mitigation practices. Most risks arise from under‑review rather than misuse.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{failure_modes_map} 
+
+}
+
+\caption{Common failure modes in AI‑assisted policy and health analytics and corresponding mitigation practices. Most risks arise from under‑review rather than misuse.}(\#fig:failure-modes-map-figure)
+\end{figure}
 
 ## Closing reflection
 

@@ -8,10 +8,14 @@ This chapter treats prompting as a methodological practice rather than a technic
 The figure below provides a reusable prompt “recipe card” designed for policy and health analytics workflows.
 
 
-<div class="figure" style="text-align: center">
-<img src="prompt_recipe_card.png" alt="Prompt recipe card for inquiry and synthesis. A structured prompt clarifies context, task, constraints, format, and uncertainty without delegating judgment." width="95%" />
-<p class="caption">(\#fig:prompt-recipe-card-figure)Prompt recipe card for inquiry and synthesis. A structured prompt clarifies context, task, constraints, format, and uncertainty without delegating judgment.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.95\linewidth]{prompt_recipe_card} 
+
+}
+
+\caption{Prompt recipe card for inquiry and synthesis. A structured prompt clarifies context, task, constraints, format, and uncertainty without delegating judgment.}(\#fig:prompt-recipe-card-figure)
+\end{figure}
 
 ## Prompts as research instruments
 

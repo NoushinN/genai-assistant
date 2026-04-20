@@ -6,7 +6,7 @@ This section lists selected, widely cited resources that discuss themes related 
 
 ---
 
-## Responsible AI and governance
+## Responsible AI and governance {-}
 
 - Organisation for Economic Co‑operation and Development (OECD).  
   *OECD Principles on Artificial Intelligence.*  
@@ -22,7 +22,7 @@ This section lists selected, widely cited resources that discuss themes related 
 
 ---
 
-## Epistemic uncertainty and policy analysis
+## Epistemic uncertainty and policy analysis {-}
 
 - Manski, C. F.  
   *Public Policy in an Uncertain World: Analysis and Decisions.*  
@@ -34,7 +34,7 @@ This section lists selected, widely cited resources that discuss themes related 
 
 ---
 
-## Human–AI interaction in knowledge work
+## Human–AI interaction in knowledge work {-}
 
 - Amershi, S., et al.  
   *Guidelines for Human–AI Interaction.*  

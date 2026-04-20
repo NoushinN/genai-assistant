@@ -7,10 +7,14 @@ The checklist operationalizes the governance principles and failure modes descri
 The figure below shows how the pre‑submission checklist aligns with the review workflow and governance principles described earlier in the book.
 
 
-<div class="figure" style="text-align: center">
-<img src="checklist_workflow_alignment.png" alt="Alignment between the pre-submission review checklist, the AI-assisted review pipeline, and governance boundaries." width="100%" />
-<p class="caption">(\#fig:checklist-workflow-alignment-figure)Alignment between the pre-submission review checklist, the AI-assisted review pipeline, and governance boundaries.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{checklist_workflow_alignment} 
+
+}
+
+\caption{Alignment between the pre-submission review checklist, the AI-assisted review pipeline, and governance boundaries.}(\#fig:checklist-workflow-alignment-figure)
+\end{figure}
 
 
 Read this figure from top to bottom: the checklist is not an add-on, but a condensed representation of the same review and accountability practices applied throughout the analytical workflow.
