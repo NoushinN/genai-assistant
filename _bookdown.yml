@@ -15,6 +15,7 @@ rmd_files:
   - "06-failure-modes.Rmd"
   - "A-pre-submission-review-checklist.Rmd"
   - "B-glossary.Rmd"
+  - "C-further-reading.Rmd"
 
 
 language:

@@ -99,3 +99,6 @@ stage-2-verification
 stage-3-reasoning-uncertainty
 stage-4-signoff-disclosure
 final-integrity-check
+responsible-ai-and-governance
+epistemic-uncertainty-and-policy-analysis
+humanai-interaction-in-knowledge-work

@@ -125,4 +125,13 @@ Failure modes in AI‑assisted analysis are rarely obvious. They accumulate quie
 
 Used with awareness and discipline, generative AI can support analytical work without compromising rigor. Used without it, the same tools can subtly erode the very standards they are meant to assist.
 
-This book does not resolve questions of legal liability, procurement policy, or model evaluation. Its focus is on analytical practice and responsibility, not institutional compliance.
+This work draws on general practices in policy analysis, research methods, and governance rather than any single academic or technical framework.
+
+Additionally, it does not resolve questions of legal liability, procurement policy, or model evaluation. Its focus is on analytical practice and responsibility, not institutional compliance.
+
+
+Readers interested in broader governance and epistemic discussions may consult the resources listed in Appendix C. For broader discussions of AI governance, epistemic risk, and analytical accountability, readers may wish to consult general literature on:
+
+- Responsible AI and governance frameworks  
+- Epistemic uncertainty in policy analysis  
+- Human–AI interaction in knowledge work  
