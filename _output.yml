@@ -7,7 +7,7 @@ bookdown::gitbook:
       scroll_highlight: yes
       before: |
         <li class="toc-title">
-          <strong>Generative AI as an Assistant</strong><br/>
+          <strong>Generative Artificial Intelligence (AI) as an Assistant</strong><br/>
           <span class="toc-subtitle">A research-oriented guide</span>
         </li>
       after: |

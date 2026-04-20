@@ -1,7 +1,7 @@
 ---
-title: "Generative AI as an Assistant"
+title: "Generative Artificial Intelligence (AI) as an Assistant"
 author: "Noushin Nabavi"
-date: "2026-04-19"
+date: "2026-04-20"
 site: bookdown::bookdown_site
 documentclass: book
 
@@ -54,6 +54,7 @@ promote efficiency or automation, but to support thoughtful, disciplined
 engagement with generative AI as an assistant—used critically, provisionally,
 and in service of clearer thinking.
 
+
 ## What this book is
 
 This book is a practical and conceptual guide to using generative AI as a
@@ -90,3 +91,4 @@ Readers may engage with this book in different ways:
 - Selectively, by focusing on specific patterns, examples, or review practices  
 - Reflectively, as a way to examine their own use of generative AI in analytical work  
 
+The source files for this book, including all figures and appendices, are maintained in a public repository at this [link](https://github.com/NoushinN/genai-assistant).

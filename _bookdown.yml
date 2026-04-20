@@ -1,4 +1,4 @@
-book_filename: "genai-assistant"
+book_filename: "generative-ai-as-an-assistant"
 output_dir: "docs"
 delete_merged_file: true
 new_session: true

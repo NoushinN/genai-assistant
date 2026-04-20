@@ -1,62 +1,52 @@
 # Preface {-}
 
-## Generative AI as a Research and Investigation Assistant
+## Why this book
 
-This book explores how generative AI tools can be used to support investigation and analytical writing.
+This book was written to support analysts, researchers, and reviewers who are experimenting with generative AI while remaining accountable for evidence, reasoning, and conclusions. It responds to a practical gap: AI tools are increasingly available, but norms for responsible analytical use remain uneven and under‑specified.
 
-The focus is on thinking with AI, not delegating judgment to AI.
+Rather than offering technical instruction or automation guidance, this book focuses on analytical practice—how to use generative AI as a support for thinking, drafting, and review without displacing judgment or responsibility.
 
-## Purpose
+---
 
-Generative AI can be useful for:
+## How this book is different
 
-- Structuring complex questions
-- Mapping arguments and counterarguments
-- Summarizing large volumes of text
-- Identifying assumptions and gaps
-- Improving clarity and coherence in writing
+Many AI guides emphasize efficiency, tooling, or performance. This book takes a different approach. It treats generative AI as an assistant to inquiry, not as a source of authority, evidence, or validation.
 
-Generative AI is not a source of evidence, authority, or truth.
+The emphasis throughout is on:
+- deliberate use rather than automation  
+- review and revision as core analytical disciplines  
+- explicit handling of uncertainty and assumptions  
+- clear human authorship and accountability  
 
-This book documents patterns that emphasize:
+---
 
-- Critical use
-- Explicit uncertainty
-- Human accountability
-- Epistemic humility
+## How to use this book
 
-## Intended Audience
+This book is designed for selective reading. Different readers may wish to focus on different sections:
 
-- Academic and independent researchers
-- Investigative writers and journalists
-- Students learning research methods
-- Analysts working in exploratory or early-stage inquiry
+- **If you are new to generative AI:**  
+  Begin with *Conceptual Foundations* and *Prompt Patterns* to understand the analytical stance and basic patterns of use.
 
-## What This Book Covers
+- **If you use AI in analytical work:**  
+  Focus on *Illustrative Examples* and *Reviewing and Revising AI‑Assisted Output*, and use **Appendix A** as a practical pre‑submission checklist.
 
-- Prompt patterns for inquiry and synthesis
-- Techniques for surfacing assumptions
-- Methods for handling uncertainty explicitly
-- Review practices for AI-assisted drafts
+- **If you review or govern AI use:**  
+  Read *Organizational Governance* and *Failure Modes*, alongside **Appendix A**, to understand boundaries, risks, and accountability practices.
 
-## What This Book Does Not Cover
+---
 
-- Tool-specific instructions
-- Automation of decisions or conclusions
-- Use with confidential or personal data
-- Claims of factual correctness
+## What this book does not attempt
 
-## Guiding Principle
+This book does not provide:
+- tool‑specific instructions or vendor guidance  
+- automation of decisions or analytical conclusions  
+- legal advice, procurement guidance, or compliance frameworks  
+- technical evaluation of AI models or training data  
 
-AI may assist reasoning, but responsibility for accuracy remains human.
+Its scope is intentionally limited to analytical judgment and practice.
 
-If you’re new to AI → read Conceptual Foundations and Prompt Patterns  
-If you use AI in analysis → read Examples and Reviewing AI‑Assisted Output + Appendix A  
-If you review or govern AI use → read Organizational Governance and Failure Modes + Appendix A    
-
+---
 
 ## Disclaimer
 
-This book reflects general research and writing practices. It does not represent the views, guidance, or policies of any employer, organization, or institution. 
-Also, it does not provide legal advice, procurement guidance, or technical evaluation of AI models. Its focus is on analytical practice, review discipline, and accountability rather than institutional compliance.
-
+This book reflects general research and analytical practices intended for professional reflection. It does not represent the views, guidance, or policies of any employer, organization, or institution.
