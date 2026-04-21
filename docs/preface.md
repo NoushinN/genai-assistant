@@ -24,14 +24,14 @@ The emphasis throughout is on:
 
 This book is designed for selective reading. Different readers may wish to focus on different sections:
 
-- **If you are new to generative AI:**  
+- If you are new to generative AI:  
   Begin with *Conceptual Foundations* and *Prompt Patterns* to understand the analytical stance and basic patterns of use.
 
-- **If you use AI in analytical work:**  
-  Focus on *Illustrative Examples* and *Reviewing and Revising AI‑Assisted Output*, and use **Appendix A** as a practical pre‑submission checklist.
+- If you use AI in analytical work:  
+  Focus on *Illustrative Examples* and *Reviewing and Revising AI‑Assisted Output*, and use *Appendix A* as a practical pre‑submission checklist.
 
-- **If you review or govern AI use:**  
-  Read *Organizational Governance* and *Failure Modes*, alongside **Appendix A**, to understand boundaries, risks, and accountability practices.
+- If you review or govern AI use:  
+  Read *Organizational Governance* and *Failure Modes*, alongside *Appendix A*, to understand boundaries, risks, and accountability practices.
 
 ---
 
