@@ -77,8 +77,6 @@ Instead, the emphasis is placed on durable analytical principles such as evidenc
 
 The source files for this book, including figures, appendices, and supporting materials, are maintained in a public repository:
 
-:contentReference[oaicite:0]{index=0}
-
 The repository supports transparency, reproducibility, iterative revision, and continued development of the material.
 
 ## Closing perspective
