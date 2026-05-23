@@ -1,122 +1,272 @@
-# Organizational Governance for AI‑Assisted Analysis
+# Organizational Governance for AI-Assisted Analysis
 
-This chapter outlines governance principles for the responsible use of generative AI assistants in policy and health analytics. Governance here is not understood as technical control or prohibition, but as a set of norms, expectations, and review practices that preserve analytical integrity, accountability, and trust.
+This chapter outlines governance principles for the responsible use of generative AI assistants in policy and health analytics. Governance here is not understood as technical restriction or blanket prohibition, but as a set of norms, review practices, and accountability structures that preserve analytical integrity, evidentiary discipline, and institutional trust.
 
-Because AI‑assisted analysis can influence decisions, resource allocation, and public communication, the question is not whether AI is used, but under what conditions its use remains responsible.
+Because AI-assisted analysis can influence:
+- decisions,
+- resource allocation,
+- operational priorities,
+- public communication,
+- and institutional processes,
 
-The figure below summarizes the governance boundary that underpins the rest of this chapter.
+the central question is not whether generative AI is used, but under what conditions its use remains methodologically and institutionally responsible.
 
+The figure below summarizes two complementary governance perspectives. Panel (a) illustrates governance boundaries separating acceptable, conditional, and non-delegable uses of generative AI in analytical environments. Panel (b) presents a governance escalation ladder showing how review expectations and accountability increase as analytical impact and decision influence become more significant.
 
-```{r governance-boundary-figure, echo=FALSE, fig.cap="Governance boundary for AI‑assisted analysis. Generative AI may support framing, drafting, and review, but must not cross into evidence generation, validation, or decision‑making.", out.width="90%", fig.align="center"}
-knitr::include_graphics("governance_boundary.png")
+```{r governance-boundary-figure, echo=FALSE, fig.cap="Panel (a) illustrates governance boundaries for AI-assisted analysis, distinguishing acceptable, conditional, and non-delegable uses of generative AI. Panel (b) illustrates a governance escalation ladder showing how review expectations, documentation, and human accountability increase as analytical impact rises.", out.width="100%", fig.align="center"}
+knitr::include_graphics("figures/04_governance_boundary.png")
 ```
 
-## Purpose of governance in AI‑assisted analysis
+As illustrated in panel (a), governance boundaries are normative rather than technical. Generative AI systems may be capable of producing:
+- recommendations,
+- evaluations,
+- interpretations,
+- summaries,
+- or comparative analyses,
 
-In policy and health contexts, analytical work is accountable not only to standards of evidence, but also to institutions, stakeholders, and affected populations. Generative AI systems introduce specific risks—fabrication, over‑confidence, framing effects, and obscured assumptions—that governance mechanisms are meant to surface and manage.
+but institutional governance determines whether reliance on those outputs is appropriate in professional analytical settings.
 
-> **Practice note**  
-> Governance does not replace judgment; it makes judgment visible, reviewable, and defensible.
+Panel (b) complements this perspective by illustrating that governance requirements are not uniform across all AI-assisted activities. As analytical work moves from low-impact drafting support toward interpretation, recommendations, or decision authority, expectations for:
+- evidence traceability,
+- review,
+- documentation,
+- disclosure,
+- and human accountability
 
-## Acceptable uses
+increase substantially.
 
-Generative AI assistance is appropriate when it is used to support analytical thinking and communication, while leaving evaluative judgment with human analysts.
+Together, the two panels reinforce a central principle of this book:
 
-Acceptable uses include:
+> AI may assist analytical work, but authority, accountability, and responsibility remain human.
 
-- **Scoping and question formulation**  
-  Using AI to help decompose broad or ill‑defined problems into candidate analytical questions, dimensions, or lenses—without treating these outputs as definitive or exhaustive.
+Governance should therefore not be interpreted as opposition to AI use. Effective governance does not seek to eliminate generative AI from analytical environments. Instead, it embeds AI assistance within existing professional standards involving:
+- evidence review,
+- methodological scrutiny,
+- peer review,
+- documentation,
+- and accountability structures.
 
-- **Drafting and revising analytical text**  
-  Improving clarity, organization, tone, or accessibility of drafts, while retaining human control over claims, interpretations, and conclusions.
+In policy and health contexts, analytical work is accountable not only to standards of evidence, but also to:
+- institutions,
+- stakeholders,
+- governance processes,
+- and affected populations.
 
-- **Surfacing assumptions and gaps**  
-  Prompting AI to identify implicit assumptions, missing information, or areas of uncertainty in drafts or early analyses, as an aid to reflexive review.
+Generative AI systems introduce risks that governance structures are intended to surface and manage. These risks include:
+- fabrication,
+- over-confidence,
+- framing effects,
+- obscured assumptions,
+- false balance,
+- and diffusion of responsibility.
 
-> **Illustrative example**  
-> An analyst uses AI to reorganize a briefing note for a senior audience and to flag where causal language appears stronger than the evidence supports. The analyst revises the text accordingly and verifies all claims against source material.
+Governance therefore functions as a supporting structure that helps ensure AI-assisted analytical work remains:
+- reviewable,
+- transparent,
+- evidence-aware,
+- and institutionally defensible.
 
-## Non‑acceptable uses
+Importantly, governance does not replace judgment; it makes judgment visible, reviewable, and accountable.
 
-Generative AI assistance is not appropriate where it would substitute for evidence, expertise, or accountability.
+As shown in panel (b), governance expectations should also be proportional to analytical impact and institutional risk. Not all AI-assisted tasks carry the same consequences if errors occur. Some forms of assistance involve relatively low analytical risk, while others may directly influence operational decisions, policy interpretation, or public outcomes.
 
-Non‑acceptable uses include:
+For example, activities such as:
+- drafting support,
+- structural revision,
+- brainstorming,
+- and organizational assistance
 
-- **Generating or validating evidence**  
-  AI outputs should never be treated as empirical findings, data sources, or confirmation of factual claims.
+generally involve lower governance risk than:
+- interpretation,
+- comparative prioritization,
+- recommendations,
+- trade-off analysis,
+- or decision-support language.
 
-- **Making or justifying policy decisions**  
-  AI systems should not be used to recommend options, rank alternatives, or justify decisions, particularly where trade‑offs, values, or distributional impacts are involved.
+As analytical influence increases, governance expectations should increase as well. Higher-impact analytical activities may require:
+- stronger evidence requirements,
+- peer or supervisor review,
+- documentation of assumptions,
+- explicit uncertainty disclosure,
+- or formal sign-off procedures.
 
-- **Replacing expert or peer review**  
-  AI assistance does not substitute for subject‑matter expertise, methodological review, or institutional oversight.
+Panel (b) visualizes this escalation principle directly:
+> higher analytical impact requires stronger review, documentation, and human accountability.
 
-> **Common failure mode**  
-> Using AI‑generated summaries or comparisons as if they represented evidentiary consensus, without engaging with the underlying sources.
+Panel (a) identifies one category of acceptable AI-assisted activities involving supportive analytical assistance. These uses help structure inquiry and improve communication while leaving evaluative judgment and accountability with human analysts.
 
+For example, generative AI may assist with:
+- decomposing broad problems into analytical questions,
+- organizing complex information,
+- improving clarity and readability,
+- surfacing ambiguities or assumptions,
+- or helping researchers explore alternative framings.
 
-## Accountability and authorship
+A researcher might use AI assistance to reorganize a briefing note for a senior audience or to identify where causal language appears stronger than the supporting evidence. In such cases, the analyst still reviews the suggestions, revises the material, and verifies claims against source information before accepting the output.
 
-Accountability for AI‑assisted work remains fully human. The use of AI does not dilute professional responsibility, institutional accountability, or authorship.
+As illustrated in panel (a), these forms of assistance remain acceptable because AI supports thinking and expression rather than replacing analytical authority.
 
-This means that analysts must be able to:
+At the same time, panel (a) also introduces an intermediate governance zone involving conditional or high-review uses. These activities involve greater interpretive influence and therefore require stronger safeguards, review, and documentation.
 
-- Explain how AI assistance was used
-- Defend analytical choices and conclusions
-- Identify and correct errors introduced through AI assistance
+Examples include:
+- synthesis across multiple sources,
+- thematic coding,
+- comparative analysis,
+- prioritization,
+- trade-off identification,
+- or scenario exploration.
 
-> **Practice note**  
-> If an analyst cannot explain or justify a claim without referring to the AI system, that claim does not meet accountability standards.
+These activities are not necessarily prohibited, but they should occur only with:
+- evidence traceability,
+- uncertainty disclosure,
+- peer or supervisory review,
+- and explicit human sign-off.
 
-## Transparency and disclosure
+This distinction matters because generated outputs at this stage may shape:
+- analytical direction,
+- framing,
+- prioritization,
+- or implied recommendations
 
-Transparency about AI use supports trust, interpretability, and appropriate review. Disclosure should be proportionate to the role AI played in the work and focused on helping readers understand how conclusions were reached.
+even when explicit decisions are not being made.
 
-In many contexts, this does not require detailed prompt logs, but it does require clarity about:
+The closer AI-assisted work moves toward interpretation, recommendation, or institutional impact, the stronger human oversight must become.
 
-- Which stages of work involved AI assistance (e.g., scoping, drafting, revision)
-- What the system did and did not do
-- How outputs were reviewed and validated
+Panel (a) also identifies a third category involving non-delegable authority. These are activities where responsibility must remain fully human regardless of AI capability.
 
-> **Example disclosure (internal)**  
-> “Generative AI was used to assist with early drafting and structural revisions. All factual content, analysis, and conclusions were reviewed and validated by the author.”
+For example, AI-generated text should never be treated as:
+- empirical evidence,
+- authoritative validation,
+- source confirmation,
+- or verified findings.
 
-> **Example disclosure (external, where appropriate)**  
-> “AI‑assisted tools were used for drafting support; responsibility for analysis and conclusions rests with the authors.”
+Generated material may assist organization or synthesis, but evidentiary legitimacy must come from identifiable and reviewable sources.
 
-## Governance as a supporting structure
+Similarly, generative AI systems should not:
+- make policy decisions,
+- justify institutional actions,
+- rank options authoritatively,
+- determine operational outcomes,
+- or replace expert approval and sign-off processes.
 
-Effective governance does not seek to eliminate AI use, but to embed it within existing analytical standards: evidence review, peer scrutiny, documentation, and accountability.
+These activities involve:
+- value judgments,
+- accountability,
+- institutional authority,
+- trade-offs,
+- and professional responsibility
 
-Used in this way, governance functions as an enabling structure—one that allows generative AI to support analytical work without undermining trust, rigor, or responsibility.
+that cannot be delegated to probabilistic language systems.
 
-These review practices are operationalized in Appendix A; see Figure.
+One common governance failure occurs when AI-generated summaries or comparisons are treated as if they represent evidentiary consensus without direct review of the underlying sources. As shown in panel (a), governance boundaries exist specifically to prevent this kind of authority transfer.
 
-These governance expectations are reflected in the alignment between review workflow and checklist practices shown in Appendix A Figure
+Accountability for AI-assisted analytical work therefore remains fully human. The use of generative AI does not dilute:
+- professional responsibility,
+- institutional accountability,
+- analytical ownership,
+- or authorship.
 
-### Cross-walk: review dimensions mapped to workflow stages
+Analysts must remain able to:
+- explain how AI assistance was used,
+- defend analytical choices and conclusions,
+- identify and correct errors,
+- and justify reasoning independently of the AI system.
 
-| Review dimension | Stage 1: Draft & framing | Stage 2: Verification | Stage 3: Reasoning & uncertainty | Stage 4: Sign-off & disclosure |
-|---|:---:|:---:|:---:|:---:|
-| Scope & use of AI assistance | ✓ |  |  | ✓ |
-| Framing and problem definition | ✓ |  | ✓ (re-check) |  |
-| Factual accuracy & evidence discipline |  | ✓ | ✓ (claims match strength) |  |
-| Reasoning, uncertainty, analytical integrity |  |  | ✓ | ✓ (final check) |
-| Balance, alternatives, contested issues |  |  | ✓ |  |
-| Authorship, voice, accountability |  |  |  | ✓ |
-| Transparency & disclosure |  |  |  | ✓ |
+As illustrated in panel (b), accountability requirements become progressively stronger as analytical work moves upward toward:
+- interpretation,
+- recommendations,
+- policy implications,
+- or decision authority.
 
-### Governance lens: what reviewers should look for
+If an analyst cannot explain or defend a claim without referring back to the AI system, that claim does not meet accountability standards.
 
-Governance is strengthened when review makes AI influence visible. The following dimensions help reviewers and managers identify where AI assistance may have crossed boundaries or introduced subtle analytical risks:
+Transparency and disclosure also play important roles in responsible governance. Disclosure should be proportional to the role AI played in the workflow and focused on helping reviewers or readers understand:
+- where AI assistance entered the process,
+- what functions it supported,
+- and how outputs were reviewed and validated.
 
-- **Use and scope:** Was AI used to support drafting and reflection rather than validation or decision-making?
-- **Framing:** Did AI outputs lock in problem framing or obscure alternatives?
-- **Evidence discipline:** Are factual claims anchored to sources, with no fabricated details or pseudo-citations?
-- **Reasoning and uncertainty:** Are assumptions explicit and confidence proportional to evidence?
-- **Balance:** Are contested issues presented with attention to evidence asymmetry?
-- **Authorship:** Is accountability clear and attributable?
-- **Transparency:** Is AI use explainable and disclosed where appropriate?
+In many contexts, this does not require preserving complete prompt histories, but it does require clarity regarding where human judgment shaped the final analytical product.
 
-Appendix A operationalizes these checks as a stage-based pre-submission checklist.
+For example, internal disclosure language may state:
 
+> “Generative AI was used to assist with drafting support and structural revision. All factual content, analysis, interpretation, and conclusions were reviewed and validated by the author.”
+
+Similarly, external disclosure where appropriate may state:
+
+> “AI-assisted tools were used for drafting support; responsibility for analysis and conclusions rests with the authors.”
+
+Panel (b) further emphasizes an important operational principle: governance intensity should increase alongside analytical impact.
+
+Lower-risk tasks such as:
+- formatting,
+- brainstorming,
+- or drafting support
+
+may require:
+- minimal review,
+- lightweight documentation,
+- and routine quality assurance.
+
+By contrast, higher-impact tasks involving:
+- interpretation,
+- policy implications,
+- recommendations,
+- or operational decisions
+
+may require:
+- evidence traceability,
+- uncertainty documentation,
+- cross-functional review,
+- supervisor sign-off,
+- and stronger governance scrutiny.
+
+This escalation model helps organizations avoid two common governance failures:
+- treating all AI-assisted work as equally risky, or
+- applying insufficient review to high-impact analytical tasks.
+
+As illustrated in panel (b), governance becomes operational through recurring practices such as:
+- documenting where AI was used,
+- checking claims against evidence,
+- flagging uncertainty and assumptions,
+- recording reviews and approvals,
+- and maintaining ownership of the final analytical product.
+
+These practices do not eliminate the possibility of error, but they help ensure that:
+- analytical influence remains visible,
+- assumptions remain reviewable,
+- and responsibility remains attributable.
+
+Ultimately, effective governance should be understood as an enabling structure rather than a restrictive one. Governance creates conditions under which AI assistance can support analytical work without undermining:
+- rigor,
+- accountability,
+- evidence discipline,
+- or institutional trust.
+
+Used responsibly, governance allows generative AI to remain useful while preserving the human authority necessary for professional analytical environments.
+
+Across all governance contexts discussed in this chapter, the central principle therefore remains consistent:
+
+> AI may assist analytical work, but authority cannot be delegated.
+
+Generative AI systems may support:
+- drafting,
+- synthesis,
+- organization,
+- comparison,
+- and exploratory reflection,
+
+but responsibility for:
+- evidence,
+- interpretation,
+- recommendations,
+- and institutional impact
+
+remains human.
+
+The governance structures discussed in this chapter help preserve that distinction by ensuring that AI-assisted analysis remains:
+- reviewable,
+- evidence-aware,
+- transparent,
+- and accountable.
+
+Appendix A operationalizes these governance expectations further through a stage-based pre-submission checklist aligned with review workflow and accountability practices.
