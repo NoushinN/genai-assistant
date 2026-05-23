@@ -4,17 +4,25 @@ This book presents a framework for using generative AI as an assistant in policy
 
 ## Core principle
 
-Generative AI assists; analysts decide.
+> Generative AI assists; analysts decide.
 
-AI supports inquiry, drafting, and synthesis, but responsibility for evidence, reasoning, and conclusions remains human.
+AI may support inquiry, drafting, synthesis, organization, and exploratory analysis, but responsibility for evidence, reasoning, interpretation, and conclusions remains human.
 
+The book develops a governance-aware approach to AI-assisted analytical work that emphasizes:
+- evidence traceability,  
+- disciplined review,  
+- explicit uncertainty,  
+- accountable authorship,  
+- and preservation of human judgment.  
+
+Rather than treating generative AI as a source of authority or automated decision-making, the book positions these systems as tools that may assist analytical workflows while remaining subject to human review, methodological scrutiny, and institutional accountability.
 
 ### List of Figures {-}
 
-- **Figure 1:** AI‑assisted analysis lifecycle  
-- **Figure 2:** Prompt recipe card for inquiry and synthesis  
-- **Figure 3:** Review pipeline for AI‑assisted drafts  
-- **Figure 4:** Evidence‑to‑claim traceability ladder  
-- **Figure 5:** Governance boundary for AI‑assisted analysis  
-- **Figure 6:** Failure modes and mitigation practices  
-- **Figure A.1:** Checklist → workflow alignment
+- AI-assisted analysis lifecycle  
+- Prompt recipe card for inquiry and synthesis  
+- Review pipeline for AI-assisted drafts  
+- Evidence-to-claim traceability ladder  
+- Governance boundary for AI-assisted analysis  
+- Failure modes and mitigation practices  
+- Checklist → workflow alignment  
