@@ -227,7 +227,7 @@ This book examines how generative AI can function as an assistant within analyti
             <section class="normal" id="section-">
 <div id="prompt-patterns-for-inquiry-and-synthesis" class="section level1 hasAnchor" number="3">
 <h1><span class="header-section-number">3</span> Prompt Patterns for Inquiry and Synthesis<a href="prompt-patterns-for-inquiry-and-synthesis.html#prompt-patterns-for-inquiry-and-synthesis" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p>Prompts are the primary mechanism through which users interact with generative AI systems. In research, policy, and health analytics contexts, prompts are most effective when they are designed to support inquiry, reflection, and structured exploration rather than answer-seeking or automated decision-making. How a prompt is framed shapes not only what the system produces, but also how those outputs are interpreted, trusted, and ultimately used.</p>
+<p>Prompts are the primary mechanism through which users interact with generative AI systems. In research, policy, and health analytics contexts, prompts are most effective when they are designed to support inquiry, reflection, and structured exploration rather than answer-seeking or automated decision-making. How a prompt is framed shapes not only what the system produces, but also how those outputs are interpreted, trusted, and ultimately used. :contentReference<span index="0">oaicite:0</span></p>
 <p>This chapter treats prompting as a methodological practice rather than a technical trick. The emphasis is not on “getting the perfect answer,” but on designing interactions that support disciplined analytical thinking while preserving human judgment, accountability, and evidentiary review. In this framework, prompts are tools for thinking with AI rather than instructions for delegating responsibility to AI.</p>
 <p>The figure below presents a reusable prompt “recipe card” designed for policy and health analytics workflows.</p>
 <div class="figure" style="text-align: center"><span style="display:block;" id="fig:prompt-recipe-card-figure"></span>
@@ -236,95 +236,63 @@ This book examines how generative AI can function as an assistant within analyti
 Figure 3.1: Prompt recipe card for inquiry and synthesis. A structured prompt clarifies context, task, constraints, format, and uncertainty while preserving human review and accountability.
 </p>
 </div>
-<p>As illustrated in the figure, effective prompts typically combine several interconnected elements: contextual framing, a clearly defined analytical task, explicit constraints, expectations regarding output structure, and acknowledgment of uncertainty. Together, these elements help transform prompting from an ad hoc interaction into a more disciplined and transparent analytical practice.</p>
+<p>As illustrated in the figure, effective prompts typically combine several interconnected elements including contextual framing, a clearly defined analytical task, explicit constraints, expectations regarding output structure, and acknowledgment of uncertainty. Together, these elements help transform prompting from an ad hoc interaction into a more disciplined and transparent analytical practice.</p>
 <p>The figure also reinforces two broader principles that recur throughout this book:</p>
-<ul>
-<li>prompts should support inquiry rather than produce determinate conclusions, and</li>
-<li>human review remains essential regardless of how carefully a prompt is designed.</li>
-</ul>
+<blockquote>
+<p>Prompts should support inquiry rather than produce determinate conclusions.</p>
+</blockquote>
+<p>and</p>
+<blockquote>
+<p>Human review remains essential regardless of how carefully a prompt is designed.</p>
+</blockquote>
 <p>A prompt can therefore be understood as a research instrument. Like surveys, interview protocols, analytical frameworks, or statistical models, prompts shape what becomes visible, what remains implicit, and what kinds of reasoning are encouraged or constrained. Thoughtful prompting requires attention not only to what is being asked, but also to what assumptions are embedded in the request, what kinds of outputs are implicitly rewarded, and what forms of reasoning may unintentionally be excluded.</p>
 <p>In this sense, prompts are not neutral.</p>
-<p>For example, prompts asking for:
-- “the best solution,”
-- “the correct interpretation,” or
-- “the recommended policy”</p>
-<p>implicitly transfer authority toward the system’s output and encourage premature closure around a single framing.</p>
-<p>By contrast, prompts requesting:
-- alternative perspectives,
-- competing interpretations,
-- assumptions,
-- counterarguments,
-- limitations,
-- or conditional analyses</p>
-<p>reinforce the exploratory nature of the interaction. These prompts position generative AI as a tool for generating analytical material to think with rather than as a source of authoritative conclusions.</p>
+<p>For example, prompts asking for “the best solution,” “the correct interpretation,” or “the recommended policy” implicitly transfer authority toward the system’s output and encourage premature closure around a single framing.</p>
+<p>By contrast, prompts requesting alternative perspectives, competing interpretations, assumptions, counterarguments, limitations, or conditional analyses reinforce the exploratory nature of the interaction. These prompts position generative AI as a tool for generating analytical material to think with rather than as a source of authoritative conclusions.</p>
 <p>Designing prompts in this way supports disciplined inquiry while preserving the researcher’s role as the final arbiter of relevance, adequacy, interpretation, and meaning.</p>
 <p>The structure of a prompt can also function as a form of analytical governance. Well-designed prompts establish methodological boundaries before generation occurs. They define what the system is being asked to do, what it should avoid doing, how outputs should be organized, and how uncertainty should be treated. This becomes particularly important in policy and health analytics, where generated outputs may influence institutional processes, public communication, or operational decisions.</p>
-<p>As shown in the figure, the prompt recipe card encourages analysts to separate:
-- evidence,
-- assumptions,
-- interpretation, and
-- uncertainty.</p>
-<p>This separation matters because AI-generated responses often blend factual claims, inferred assumptions, and interpretive commentary into a single fluent narrative. Without explicit structure, it can become difficult to distinguish what is supported by evidence from what is speculative or inferred. Prompt structure therefore helps operationalize transparency and accountability within AI-assisted analytical workflows.</p>
+<p>As shown in the figure, the prompt recipe card encourages analysts to separate evidence, assumptions, interpretation, and uncertainty. This separation matters because AI-generated responses often blend factual claims, inferred assumptions, and interpretive commentary into a single fluent narrative. Without explicit structure, it can become difficult to distinguish what is supported by evidence from what is speculative or inferred.</p>
+<p>Prompt structure therefore helps operationalize transparency and accountability within AI-assisted analytical workflows.</p>
 <p>The first component of the recipe card is context. Context situates the analytical task within a particular environment, timeframe, jurisdiction, population, or decision setting. Without context, AI systems tend to default toward generalized or decontextualized responses that may not align with the intended analytical purpose.</p>
-<p>Useful contextual information may include:
-- jurisdiction or geographical scope,
-- policy or institutional setting,
-- timeframe,
-- stakeholder environment,
-- population characteristics,
-- operational constraints, or
-- the broader decision context.</p>
-<p>For example, a prompt concerning healthcare resource allocation could produce very different outputs depending on whether the setting involves emergency response planning, long-term budgeting, rural service delivery, or Indigenous health governance. Providing context does not guarantee correctness, but it helps constrain the analytical space within which outputs are generated.</p>
-<p>The second component of the recipe card is the analytical task itself. A task defines what kind of analytical activity is being requested. Effective prompts typically rely on action-oriented framing such as:
-- compare,
-- summarize,
-- map,
-- critique,
-- organize,
-- identify,
-- contrast, or
-- surface assumptions.</p>
+<p>Useful contextual information may include jurisdictional scope, policy setting, timeframe, stakeholder environment, operational constraints, or broader decision context. For example, a prompt concerning healthcare resource allocation could produce very different outputs depending on whether the setting involves emergency response planning, long-term budgeting, rural service delivery, or Indigenous health governance.</p>
+<p>Providing context does not guarantee correctness, but it helps constrain the analytical space within which outputs are generated.</p>
+<p>The second component of the recipe card is the analytical task itself. A task defines what kind of analytical activity is being requested. Effective prompts typically rely on action-oriented framing such as asking the system to compare, summarize, map, critique, organize, identify, contrast, or surface assumptions.</p>
 <p>These verbs encourage exploratory and analytical behavior rather than authoritative recommendation. For instance, asking a system to “map competing policy perspectives” encourages comparative analysis, whereas asking it to “recommend the best policy option” implicitly encourages unsupported prioritization.</p>
-<p>Task specification also helps define the intended depth, scope, perspective, and analytical orientation of the response. The clearer the analytical task, the easier it becomes to review outputs systematically.</p>
-<p>The third component of the recipe card involves constraints. Constraints are especially important in professional analytical settings because they establish methodological and ethical boundaries before generation occurs. Examples may include instructions not to fabricate references, not to recommend preferred options, to identify uncertainties explicitly, to avoid unsupported causal claims, or to maintain a neutral analytical tone.</p>
+<p>Task specification also helps define the intended depth, scope, perspective, and analytical orientation of the response. The clearer the analytical task, the easier it becomes to review outputs systematically and identify where interpretation, assumptions, or unsupported claims may have entered the workflow.</p>
+<p>The third component of the recipe card involves constraints. Constraints are especially important in professional analytical settings because they establish methodological and ethical boundaries before generation occurs.</p>
+<p>Examples of constraints may include instructions:
+- not to fabricate references,<br />
+- not to recommend preferred options,<br />
+- to identify uncertainties explicitly,<br />
+- to avoid unsupported causal claims,<br />
+- or to maintain a neutral analytical tone.</p>
 <p>These constraints do not eliminate hallucination or analytical error, but they reduce the likelihood that generated outputs drift into unsupported certainty or inappropriate recommendation. In practice, constraints function as safeguards against common failure modes of generative AI systems.</p>
 <p>The final components of the recipe card concern output structure and uncertainty. Output formatting is not merely cosmetic. Structured outputs can improve traceability, reviewability, and analytical clarity, particularly when working with large document sets, competing policy arguments, evidence synthesis, or multi-step reasoning tasks.</p>
-<p>Prompts may therefore request:
-- headings,
-- comparative tables,
-- categorized themes,
-- evidence matrices, or
-- explicit separation between findings and interpretation.</p>
-<p>As emphasized in the figure, one especially important practice is separating evidence, assumptions, interpretation, and uncertainty. This helps reduce the risk that speculative reasoning will be mistaken for verified information.</p>
+<p>Prompts may therefore request comparative tables, categorized themes, evidence matrices, or explicit separation between findings and interpretation. As emphasized in the figure, one especially important practice is separating evidence, assumptions, interpretation, and uncertainty. This helps reduce the risk that speculative reasoning will be mistaken for verified information.</p>
 <p>Prompting for uncertainty is equally important. One of the most common risks in AI-assisted analysis is that generated outputs may appear more certain than the available evidence justifies. Generative systems are optimized to produce plausible and coherent language rather than calibrated expressions of confidence.</p>
-<p>Prompts can partially mitigate this tendency by explicitly requesting:
-- assumptions,
-- limitations,
-- information gaps,
-- alternative interpretations, or
-- conditions under which conclusions might change.</p>
-<p>For example, prompts may ask:
-- “What assumptions underlie this interpretation?”
-- “What additional evidence would change the analysis?”
-- “What information is currently missing?”
-- “What alternative explanations remain plausible?”</p>
+<p>Prompts can partially mitigate this tendency by explicitly requesting assumptions, limitations, information gaps, alternative interpretations, or conditions under which conclusions might change.</p>
+<p>For example, prompts may ask:</p>
+<blockquote>
+<p>“What assumptions underlie this interpretation?”</p>
+</blockquote>
+<blockquote>
+<p>“What additional evidence would change the analysis?”</p>
+</blockquote>
+<blockquote>
+<p>“What information is currently missing?”</p>
+</blockquote>
+<blockquote>
+<p>“What alternative explanations remain plausible?”</p>
+</blockquote>
 <p>These types of prompts encourage reflexive analysis rather than premature closure. Importantly, uncertainty should not be interpreted as analytical weakness. In many policy and health contexts, responsible analysis requires acknowledging ambiguity, incomplete evidence, competing values, and evolving conditions.</p>
 <p>Throughout this book, several recurring prompt patterns are used to support inquiry and synthesis. These patterns are not rigid templates, but adaptable approaches that help structure exploratory analytical work.</p>
-<p>One common use involves structuring broad or ill-defined problems into smaller analytical questions. For example, a researcher may ask the system to break a broad topic into distinct lines of investigation without prioritizing them. The resulting output may help organize early-stage thinking, but it should not be treated as a definitive representation of the problem space. Human review remains necessary to identify missing dimensions, revise categories, and ensure alignment with project objectives.</p>
+<p>One common use involves structuring broad or ill-defined problems into smaller analytical questions. For example, a researcher may ask the system to break a broad topic into distinct lines of investigation without prioritizing them. The resulting output may help organize early-stage thinking, but it should not be treated as a definitive representation of the problem space.</p>
+<p>Human review remains necessary to identify missing dimensions, revise categories, and ensure alignment with project objectives.</p>
 <p>Similarly, generative AI systems can help map competing arguments and counterarguments surrounding a policy issue. Such outputs may help surface trade-offs, tensions, or stakeholder perspectives, but they should not be mistaken for complete or balanced representations of the debate. Unequal evidentiary support, institutional context, or marginalized perspectives may still require independent analysis and domain expertise.</p>
 <p>Prompts can also help externalize assumptions, uncertainties, and information gaps embedded within draft analyses. Asking a system to identify implicit assumptions may help reveal dependencies, limitations, or unresolved questions that warrant further investigation. However, AI-generated assumption lists should never be treated as exhaustive. Domain expertise and contextual understanding remain essential for identifying what the system may have overlooked.</p>
-<p>Even highly structured prompts remain incomplete representations of analytical intent. No prompt can fully encode:
-- contextual understanding,
-- institutional knowledge,
-- ethical judgment,
-- stakeholder dynamics, or
-- domain expertise.</p>
+<p>Even highly structured prompts remain incomplete representations of analytical intent. No prompt can fully encode contextual understanding, institutional knowledge, ethical judgment, stakeholder dynamics, or domain expertise.</p>
 <p>Better prompts reduce ambiguity and improve transparency, but they do not eliminate the need for interpretation and critical review.</p>
-<p>Importantly, prompts themselves contain assumptions about:
-- what counts as relevant,
-- what evidence is prioritized,
-- what perspectives are foregrounded, and
-- what forms of reasoning are considered acceptable.</p>
+<p>Importantly, prompts themselves contain assumptions about what counts as relevant, what evidence is prioritized, what perspectives are foregrounded, and what forms of reasoning are considered acceptable.</p>
 <p>Responsible prompting therefore requires reflexivity not only about AI outputs, but also about the framing choices embedded in the prompts themselves.</p>
 <p>This chapter has focused on how prompts can support inquiry, synthesis, and structured analytical reflection. The next chapter shifts attention from elicitation to evaluation: how AI-assisted outputs can be reviewed, documented, verified, and governed in ways that preserve methodological rigor and accountability.</p>
 <p>Where prompting shapes what is generated, evaluation determines what is accepted, revised, or rejected. Together, these practices form the foundation of responsible AI-assisted analytical work.</p>
