@@ -21,7 +21,6 @@ bookdown::gitbook:
       twitter: no
       linkedin: no
     search: yes
-    
-    output:
-  bookdown::pdf_book:
-    latex_engine: xelatex
+
+bookdown::pdf_book:
+  latex_engine: xelatex
