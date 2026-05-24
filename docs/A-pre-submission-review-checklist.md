@@ -13,10 +13,14 @@ The checklist operationalizes many of the governance principles, review practice
 
 The figure below illustrates how the checklist aligns with the broader AI-assisted analytical workflow presented earlier in the book.
 
-<div class="figure" style="text-align: center">
-<img src="figures/06_checklist_workflow_alignment.png" alt="Alignment between workflow stages, checklist review focus, and the failure modes each review stage is intended to mitigate. The checklist operationalizes review discipline, evidence traceability, and governance boundaries across the lifecycle of AI-assisted analytical work." width="100%" />
-<p class="caption">(\#fig:checklist-workflow-alignment-figure)Alignment between workflow stages, checklist review focus, and the failure modes each review stage is intended to mitigate. The checklist operationalizes review discipline, evidence traceability, and governance boundaries across the lifecycle of AI-assisted analytical work.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{figures/06_checklist_workflow_alignment} 
+
+}
+
+\caption{Alignment between workflow stages, checklist review focus, and the failure modes each review stage is intended to mitigate. The checklist operationalizes review discipline, evidence traceability, and governance boundaries across the lifecycle of AI-assisted analytical work.}(\#fig:checklist-workflow-alignment-figure)
+\end{figure}
 
 As illustrated in the figure, the checklist mirrors the broader lifecycle of AI-assisted analytical work:
 - drafting,

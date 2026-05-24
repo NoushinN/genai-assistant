@@ -8,10 +8,14 @@ For this reason, the framework presented throughout this book treats generative 
 
 The figure below summarizes the human-led lifecycle that frames the use of generative AI throughout this book.
 
-<div class="figure" style="text-align: center">
-<img src="figures/01_lifecycle.png" alt="AI-assisted analysis as a human-led lifecycle. Generative AI contributes to exploration and drafting, while verification, judgment, and accountability remain human responsibilities." width="100%" />
-<p class="caption">(\#fig:lifecycle-figure)AI-assisted analysis as a human-led lifecycle. Generative AI contributes to exploration and drafting, while verification, judgment, and accountability remain human responsibilities.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{figures/01_lifecycle} 
+
+}
+
+\caption{AI-assisted analysis as a human-led lifecycle. Generative AI contributes to exploration and drafting, while verification, judgment, and accountability remain human responsibilities.}(\#fig:lifecycle-figure)
+\end{figure}
 
 As illustrated in the figure, the analytical process begins with human-led inquiry and framing, followed by AI-assisted prompting and drafting. Importantly, the workflow does not end with generation. Human review, evidence verification, revision, and accountability remain central components of the process. The iterative loop shown in the figure emphasizes that AI-assisted analysis is not a linear act of delegation, but a repeated cycle of generation, checking, revision, and refinement.
 

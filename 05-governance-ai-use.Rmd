@@ -1,6 +1,6 @@
 # Organizational Governance for AI-Assisted Analysis
 
-This chapter outlines governance principles for the responsible use of generative AI assistants in policy and health analytics. Governance here is not understood as technical restriction or blanket prohibition. Instead, it refers to the norms, review practices, and accountability structures that help preserve analytical integrity, evidentiary discipline, and institutional trust when generative AI systems participate in analytical workflows. :contentReference[oaicite:0]{index=0}
+This chapter outlines governance principles for the responsible use of generative AI assistants in policy and health analytics. Governance here is not understood as technical restriction or blanket prohibition. Instead, it refers to the norms, review practices, and accountability structures that help preserve analytical integrity, evidentiary discipline, and institutional trust when generative AI systems participate in analytical workflows.  
 
 Because AI-assisted analysis can influence operational priorities, public communication, resource allocation, institutional processes, and decision-making environments, the central governance question is not whether generative AI is used, but under what conditions its use remains methodologically and institutionally responsible.
 

@@ -1,15 +1,19 @@
 # Failure Modes in AI-Assisted Policy and Health Analytics
 
-This chapter examines subtle but consequential failure modes that can emerge in AI-assisted analytical work, even when generative AI tools are used carefully and with good intentions. The risks discussed here are not primarily technical malfunctions. Rather, they are epistemic and organizational risks that affect how problems are framed, how evidence is interpreted, how uncertainty is communicated, and how accountability is maintained. :contentReference[oaicite:0]{index=0}
+This chapter examines subtle but consequential failure modes that can emerge in AI-assisted analytical work, even when generative AI tools are used carefully and with good intentions. The risks discussed here are not primarily technical malfunctions. Rather, they are epistemic and organizational risks that affect how problems are framed, how evidence is interpreted, how uncertainty is communicated, and how accountability is maintained. 
 
 These risks are especially important in policy and health analytics, where analytical outputs may influence operational decisions, resource allocation, governance processes, public communication, and health outcomes. Understanding these failure modes helps analysts recognize when AI assistance is quietly undermining rigor, transparency, interpretive balance, or accountability even when outputs appear coherent and professionally written.
 
 The figure below summarizes recurring failure modes in AI-assisted analysis and corresponding mitigation practices. Panel (a) maps common analytical risks to review and mitigation strategies, while panel (b) highlights foundational practices that strengthen analytical resilience across workflows.
 
-<div class="figure" style="text-align: center">
-<img src="figures/05_failure_modes_map.png" alt="Panel (a) maps common failure modes in AI-assisted policy and health analytics to corresponding mitigation practices and escalation cues. Panel (b) highlights foundational practices that strengthen analytical resilience through evidence traceability, uncertainty visibility, review discipline, and accountable authorship." width="100%" />
-<p class="caption">(\#fig:failure-modes-map-figure)Panel (a) maps common failure modes in AI-assisted policy and health analytics to corresponding mitigation practices and escalation cues. Panel (b) highlights foundational practices that strengthen analytical resilience through evidence traceability, uncertainty visibility, review discipline, and accountable authorship.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{figures/05_failure_modes_map} 
+
+}
+
+\caption{Panel (a) maps common failure modes in AI-assisted policy and health analytics to corresponding mitigation practices and escalation cues. Panel (b) highlights foundational practices that strengthen analytical resilience through evidence traceability, uncertainty visibility, review discipline, and accountable authorship.}(\#fig:failure-modes-map-figure)
+\end{figure}
 
 As illustrated in panel (a), most analytical risks arise not from deliberate misuse, but from under-review, over-trust, weak governance, or gradual erosion of analytical discipline. Panel (b) complements this perspective by emphasizing foundational practices such as evidence traceability, explicit uncertainty, independent review, and ownership of conclusions, all of which help reduce the likelihood and impact of these risks across analytical workflows.
 

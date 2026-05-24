@@ -1,6 +1,6 @@
 # Reviewing and Revising AI-Assisted Drafts
 
-Responsible use of generative AI in policy and health analytics requires systematic review, active revision, and explicit accountability for all AI-assisted outputs. This chapter examines how analytical rigor, evidentiary discipline, and interpretive control can be maintained when generative AI systems participate in drafting, synthesis, or exploratory analytical work. :contentReference[oaicite:0]{index=0}
+Responsible use of generative AI in policy and health analytics requires systematic review, active revision, and explicit accountability for all AI-assisted outputs. This chapter examines how analytical rigor, evidentiary discipline, and interpretive control can be maintained when generative AI systems participate in drafting, synthesis, or exploratory analytical work. 
 
 The central principle is straightforward:
 

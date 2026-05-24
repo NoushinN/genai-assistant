@@ -1,6 +1,6 @@
 # Illustrative Examples of AI-Assisted Work
 
-This chapter presents illustrative examples of how generative AI can participate in research, policy, and investigative workflows. The examples are intentionally generic. Their purpose is not to prescribe workflows, endorse specific tools, or define universal best practices, but to demonstrate patterns of use that align with the conceptual and methodological commitments developed throughout this book. :contentReference[oaicite:0]{index=0}
+This chapter presents illustrative examples of how generative AI can participate in research, policy, and investigative workflows. The examples are intentionally generic. Their purpose is not to prescribe workflows, endorse specific tools, or define universal best practices, but to demonstrate patterns of use that align with the conceptual and methodological commitments developed throughout this book. 
 
 Across all examples, the emphasis is not on the outputs themselves, but on how those outputs are interpreted, reviewed, revised, and incorporated into analytical work. Generative AI contributes to exploration, drafting, organization, and synthesis, while responsibility for interpretation, evidence evaluation, and final conclusions remains human.
 
