@@ -6,7 +6,7 @@ Because AI-assisted analysis can influence operational priorities, public commun
 
 The figure below summarizes two complementary governance perspectives. Panel (a) illustrates governance boundaries separating acceptable, conditional, and non-delegable uses of generative AI in analytical environments. Panel (b) presents a governance escalation ladder showing how review expectations and accountability increase as analytical impact and decision influence become more significant.
 
-\begin{figure}
+\begin{figure}[H]
 
 {\centering \includegraphics[width=1\linewidth]{figures/04_governance_boundary} 
 

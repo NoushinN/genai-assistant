@@ -1,319 +1,81 @@
 # Appendix C: Further Reading {-}
 
-This appendix lists selected resources related to:
-- responsible AI,
-- governance,
-- epistemic uncertainty,
-- analytical accountability,
-- human–AI interaction,
-- and evidence-informed decision-making.
+This appendix lists selected resources related to responsible AI, governance, epistemic uncertainty, analytical accountability, human–AI interaction, and evidence-informed decision-making. The references are intentionally selective rather than exhaustive. Their purpose is not to provide a comprehensive literature review, but to orient readers toward influential frameworks, foundational discussions, and widely cited works that connect to the themes developed throughout this book. :contentReference[oaicite:0]{index=0}
 
-The references included here are intentionally selective rather than exhaustive. The goal is not to provide a comprehensive literature review, but to orient readers toward influential frameworks, foundational discussions, and widely cited works that connect to themes developed throughout this book.
+The materials included here span public-sector governance, policy analysis, uncertainty management, human-centered AI, organizational reasoning, and analytical practice. Together, they help situate AI-assisted analytical work within broader conversations about evidence, interpretation, institutional accountability, and decision-making under uncertainty.
 
-The resources span:
-- public-sector governance,
-- policy analysis,
-- human-centered AI,
-- uncertainty and evidence,
-- and responsible analytical practice.
-
-Importantly, this book does not adopt any single framework, institutional position, or technical standard as authoritative. Instead, the references below are provided as complementary materials for readers interested in exploring broader discussions surrounding:
-- AI-assisted knowledge work,
-- governance structures,
-- uncertainty management,
-- and analytical responsibility.
-
-Throughout this book, generative AI has been treated not primarily as a technological novelty, but as an intervention into analytical workflows, interpretive practices, and institutional accountability structures. The readings below help situate those discussions within larger conversations about:
-- responsible AI,
-- evidence governance,
-- human judgment,
-- and decision-making under uncertainty.
+Throughout this book, generative AI has been treated not primarily as a technological novelty, but as an intervention into analytical workflows and interpretive practices. The readings below provide additional perspectives on how AI systems interact with governance structures, evidence evaluation, professional judgment, and organizational accountability.
 
 ## Responsible AI and governance {-}
 
-The following resources discuss governance frameworks, public-sector accountability, ethical principles, and institutional approaches to responsible AI use.
+Several widely referenced governance frameworks provide useful context for understanding institutional approaches to responsible AI use.
 
-### Organisation for Economic Co-operation and Development (OECD)
-
-*OECD Principles on Artificial Intelligence.*
-
-One of the most widely referenced international AI governance frameworks. The OECD principles emphasize:
-- human-centered values,
-- transparency,
-- accountability,
-- robustness,
-- and responsible stewardship of AI systems.
+The Organisation for Economic Co-operation and Development (OECD) published the *OECD Principles on Artificial Intelligence*, one of the most widely cited international governance frameworks for AI systems. The OECD principles emphasize human-centered values, transparency, accountability, robustness, and responsible stewardship of AI technologies.
 
 https://oecd.ai/en/ai-principles
 
----
-
-### Government of Canada
-
-*Directive on Automated Decision-Making.*
-
-A public-sector governance framework addressing the responsible use of automated systems within government decision-making processes. Particularly relevant for discussions involving:
-- accountability,
-- impact assessment,
-- explainability,
-- and governance escalation.
+The Government of Canada’s *Directive on Automated Decision-Making* provides a public-sector governance framework addressing the responsible use of automated systems within government decision-making processes. The directive is particularly relevant to discussions involving accountability, explainability, governance escalation, and risk-based review practices.
 
 https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/directive-automated-decision-making.html
 
----
-
-### European Commission High-Level Expert Group on Artificial Intelligence
-
-*Ethics Guidelines for Trustworthy AI.*
-
-A widely cited framework outlining principles for trustworthy and human-centered AI systems. Topics include:
-- transparency,
-- human oversight,
-- accountability,
-- technical robustness,
-- and societal impact.
+The European Commission High-Level Expert Group on Artificial Intelligence published the *Ethics Guidelines for Trustworthy AI*, a widely cited framework outlining principles for trustworthy and human-centered AI systems. Topics include transparency, human oversight, accountability, technical robustness, and societal impact.
 
 https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
 
----
-
-### National Institute of Standards and Technology (NIST)
-
-*AI Risk Management Framework (AI RMF).*
-
-A practical framework focused on identifying, assessing, and managing risks associated with AI systems. Particularly relevant for organizational governance, review structures, and risk-based oversight.
+The National Institute of Standards and Technology (NIST) developed the *AI Risk Management Framework (AI RMF)*, which focuses on identifying, assessing, and managing risks associated with AI systems. The framework is particularly relevant to organizational governance, review structures, and risk-based oversight.
 
 https://www.nist.gov/itl/ai-risk-management-framework
 
----
-
-### UNESCO
-
-*Recommendation on the Ethics of Artificial Intelligence.*
-
-An international framework emphasizing:
-- human rights,
-- societal impact,
-- transparency,
-- governance,
-- and ethical stewardship of AI technologies.
+UNESCO’s *Recommendation on the Ethics of Artificial Intelligence* provides an international governance framework emphasizing human rights, societal impact, transparency, governance, and ethical stewardship of AI technologies.
 
 https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
 
----
+Together, these governance frameworks reinforce many of the themes discussed throughout this book, including transparency, human oversight, accountability, uncertainty management, and proportional governance structures.
 
 ## Epistemic uncertainty and policy analysis {-}
 
-These resources focus on uncertainty, evidence interpretation, decision-making under incomplete information, and the limits of analytical certainty.
+Questions involving uncertainty, evidence interpretation, and decision-making under incomplete information are central to responsible AI-assisted analysis. Several foundational works help frame these issues more broadly.
 
-### Manski, C. F.
+Charles F. Manski’s *Public Policy in an Uncertain World: Analysis and Decisions* explores policy analysis under conditions of partial knowledge and ambiguity. Manski emphasizes the dangers of overstating certainty and highlights the importance of acknowledging limits in evidence and inference. The book connects closely to this text’s discussions of uncertainty visibility, analytical humility, and evidence proportionality.
 
-*Public Policy in an Uncertain World: Analysis and Decisions.*  
-Harvard University Press.
+Andrea Saltelli and colleagues’ *Five ways to ensure that models serve society: a manifesto*, published in *Nature*, examines uncertainty, transparency, model governance, and responsible interpretation of analytical systems. The article is particularly relevant to discussions involving traceability, accountability, and evidence-aware governance.
 
-A foundational discussion of policy analysis under uncertainty. Manski emphasizes:
-- partial knowledge,
-- decision-making under ambiguity,
-- and the dangers of overstating certainty in policy contexts.
+Heather Douglas’s *Science, Policy, and the Value-Free Ideal* examines the role of values, uncertainty, and expert judgment within scientific and policy reasoning. The work is especially useful for readers interested in normative judgment, evidence interpretation, and the relationship between empirical evidence and policy-relevant analysis.
 
-Particularly relevant to this book’s discussions of:
-- uncertainty visibility,
-- evidence proportionality,
-- and analytical humility.
+Sheila Jasanoff’s *The Ethics of Invention: Technology and the Human Future* provides a broader reflection on governance, public reasoning, institutional accountability, and technological systems. The text situates technological innovation within wider social and institutional contexts.
 
----
-
-### Saltelli, A., et al.
-
-*Five ways to ensure that models serve society: a manifesto.*  
-Nature.
-
-A widely cited discussion of:
-- uncertainty,
-- model governance,
-- transparency,
-- and responsible interpretation of analytical systems.
-
-Relevant to broader themes of:
-- traceability,
-- accountability,
-- and evidence-aware governance.
-
----
-
-### Douglas, H.
-
-*Science, Policy, and the Value-Free Ideal.*  
-University of Pittsburgh Press.
-
-An influential discussion of:
-- uncertainty,
-- expert judgment,
-- values in scientific reasoning,
-- and policy-relevant interpretation.
-
-Useful for readers interested in:
-- normative judgment,
-- evidence interpretation,
-- and the role of human reasoning in analytical work.
-
----
-
-### Jasanoff, S.
-
-*The Ethics of Invention: Technology and the Human Future.*  
-W. W. Norton & Company.
-
-A broader reflection on technology, governance, public reasoning, and institutional accountability in technological systems.
-
----
+Collectively, these works emphasize that uncertainty is not a weakness to eliminate from analytical work, but a condition that must be managed transparently and responsibly.
 
 ## Human–AI interaction and knowledge work {-}
 
-The following works examine how humans interact with AI systems within professional, analytical, and decision-support environments.
+Another important body of literature examines how humans interact with AI systems within professional, analytical, and decision-support environments.
 
-### Amershi, S., et al.
+Amershi and colleagues’ *Guidelines for Human–AI Interaction*, published in the ACM Conference on Human Factors in Computing Systems (CHI), outlines practical design principles for effective human–AI interaction. The work is particularly relevant to review workflows, transparency, human oversight, and interaction design.
 
-*Guidelines for Human–AI Interaction.*  
-Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI).
+Ben Shneiderman’s *Human-Centered Artificial Intelligence* argues for AI systems that augment rather than replace human capabilities. The book emphasizes human control, governance, accountability, and augmentation-centered design, closely aligning with this book’s central principle:
 
-A highly influential paper outlining practical design principles for human–AI interaction. Particularly relevant to:
-- review workflows,
-- transparency,
-- human oversight,
-- and interaction design.
+> Generative AI assists; analysts decide.
 
----
+Gary Klein’s *Sources of Power: How People Make Decisions* examines expert judgment and decision-making under uncertainty in operational environments. The book is useful for understanding the continuing importance of contextual reasoning, professional expertise, and human interpretation within AI-assisted workflows.
 
-### Shneiderman, B.
+Karl Weick’s *Sensemaking in Organizations* explores how organizations construct meaning under conditions of ambiguity and uncertainty. The text is especially relevant to discussions of framing, interpretation, organizational reasoning, and analytical workflows.
 
-*Human-Centered Artificial Intelligence.*  
-Oxford University Press.
-
-A major contribution to human-centered AI thinking emphasizing:
-- human control,
-- governance,
-- accountability,
-- and augmentation rather than replacement.
-
-Closely aligned with this book’s central principle:
-> AI assists; analysts decide.
-
----
-
-### Klein, G.
-
-*Sources of Power: How People Make Decisions.*  
-MIT Press.
-
-A foundational work on:
-- expert judgment,
-- decision-making under uncertainty,
-- and human reasoning in complex operational environments.
-
-Useful for understanding the continued importance of:
-- domain expertise,
-- contextual reasoning,
-- and human interpretation within AI-assisted workflows.
-
----
-
-### Weick, K. E.
-
-*Sensemaking in Organizations.*  
-Sage Publications.
-
-A classic text exploring how organizations construct meaning under conditions of uncertainty and ambiguity.
-
-Relevant to:
-- framing,
-- interpretation,
-- analytical workflows,
-- and organizational reasoning.
-
----
+These works collectively reinforce the idea that AI-assisted analysis remains fundamentally embedded within human systems of interpretation, judgment, collaboration, and institutional accountability.
 
 ## Analytical integrity, review, and accountability {-}
 
-The following readings connect more directly to themes developed throughout this book involving:
-- review discipline,
-- traceability,
-- accountable authorship,
-- and governance-aware analytical practice.
+Several additional works connect directly to themes developed throughout this book involving review discipline, evidence interpretation, calibrated reasoning, and accountable analytical practice.
 
-### Tetlock, P. E., and Gardner, D.
+Philip Tetlock and Dan Gardner’s *Superforecasting: The Art and Science of Prediction* examines probabilistic reasoning, uncertainty communication, cognitive bias, and disciplined analytical thinking. The book is particularly relevant to discussions of calibrated reasoning, review discipline, and analytical humility.
 
-*Superforecasting: The Art and Science of Prediction.*  
-Crown Publishers.
+Daniel Kahneman’s *Thinking, Fast and Slow* explores cognitive bias, heuristics, confidence, and judgment under uncertainty. The work remains foundational for understanding framing effects, overconfidence, interpretive bias, and analytical error.
 
-A discussion of:
-- uncertainty,
-- probabilistic reasoning,
-- cognitive bias,
-- and disciplined analytical thinking.
+Edward Tufte’s *The Visual Display of Quantitative Information* focuses on evidence communication, visual reasoning, clarity, and analytical transparency. Although primarily concerned with data visualization, the work connects more broadly to themes of interpretability, evidence representation, and analytical communication.
 
-Relevant to:
-- uncertainty communication,
-- review discipline,
-- and calibrated reasoning.
-
----
-
-### Kahneman, D.
-
-*Thinking, Fast and Slow.*  
-Farrar, Straus and Giroux.
-
-A widely cited exploration of:
-- cognitive bias,
-- heuristics,
-- confidence,
-- and judgment under uncertainty.
-
-Particularly relevant for understanding:
-- overconfidence,
-- framing effects,
-- and interpretive bias in analytical work.
-
----
-
-### Tufte, E. R.
-
-*The Visual Display of Quantitative Information.*  
-Graphics Press.
-
-A foundational work on:
-- evidence communication,
-- clarity,
-- visual reasoning,
-- and analytical transparency.
-
-Useful for broader discussions of:
-- interpretability,
-- evidence representation,
-- and analytical communication.
-
----
+Taken together, these readings reinforce the broader argument developed throughout this book: responsible analytical work depends not only on access to information, but also on disciplined reasoning, review practices, uncertainty awareness, and transparent communication.
 
 ## Closing note {-}
 
-The references included in this appendix span multiple disciplines because responsible AI-assisted analysis is inherently interdisciplinary. Questions involving:
-- evidence,
-- uncertainty,
-- governance,
-- interpretation,
-- and accountability
+The references included in this appendix span multiple disciplines because responsible AI-assisted analysis is inherently interdisciplinary. Questions involving evidence, uncertainty, governance, interpretation, accountability, and professional judgment cannot be addressed solely through technical AI literature.
 
-cannot be addressed solely through technical AI literature.
-
-Throughout this book, generative AI has been framed as part of a larger analytical ecosystem involving:
-- human judgment,
-- institutional governance,
-- evidentiary review,
-- and responsible communication.
-
-Readers are encouraged to approach the materials listed here not as fixed authorities, but as starting points for continued reflection on how AI systems should participate in professional analytical practice while preserving:
-- rigor,
-- transparency,
-- accountability,
-- and human responsibility.
+Throughout this book, generative AI has been framed as part of a larger analytical ecosystem involving human reasoning, institutional governance, evidentiary review, and responsible communication. Readers are encouraged to approach the materials listed here not as fixed authorities, but as starting points for continued reflection on how AI systems should participate in professional analytical practice while preserving rigor, transparency, accountability, and human responsibility.

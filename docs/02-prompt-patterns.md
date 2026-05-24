@@ -6,7 +6,7 @@ This chapter treats prompting as a methodological practice rather than a technic
 
 The figure below presents a reusable prompt “recipe card” designed for policy and health analytics workflows.
 
-\begin{figure}
+\begin{figure}[H]
 
 {\centering \includegraphics[width=1\linewidth]{figures/02_prompt} 
 

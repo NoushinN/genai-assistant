@@ -8,7 +8,7 @@ For this reason, the framework presented throughout this book treats generative 
 
 The figure below summarizes the human-led lifecycle that frames the use of generative AI throughout this book.
 
-\begin{figure}
+\begin{figure}[H]
 
 {\centering \includegraphics[width=1\linewidth]{figures/01_lifecycle} 
 

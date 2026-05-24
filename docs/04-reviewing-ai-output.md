@@ -10,7 +10,7 @@ Generated material becomes part of an analytical product only through deliberate
 
 The figure below summarizes two complementary dimensions of responsible AI-assisted review. Panel (a) presents a review pipeline for transforming AI-assisted drafts into accountable analytical products, while panel (b) illustrates an evidence-to-claim traceability ladder showing how analytical statements should remain anchored to identifiable sources and explicit assumptions.
 
-\begin{figure}
+\begin{figure}[H]
 
 {\centering \includegraphics[width=1\linewidth]{figures/03_review_traceability} 
 
