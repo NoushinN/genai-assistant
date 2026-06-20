@@ -6,14 +6,10 @@ Because AI-assisted analysis can influence operational priorities, public commun
 
 The figure below summarizes two complementary governance perspectives. Panel (a) illustrates governance boundaries separating acceptable, conditional, and non-delegable uses of generative AI in analytical environments. Panel (b) presents a governance escalation ladder showing how review expectations and accountability increase as analytical impact and decision influence become more significant.
 
-\begin{figure}[H]
-
-{\centering \includegraphics[width=1\linewidth]{figures/04_governance_boundary} 
-
-}
-
-\caption{Panel (a) illustrates governance boundaries for AI-assisted analysis, distinguishing acceptable, conditional, and non-delegable uses of generative AI. Panel (b) illustrates a governance escalation ladder showing how review expectations, documentation, and human accountability increase as analytical impact rises.}(\#fig:governance-boundary-figure)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="figures/04_governance_boundary.png" alt="Panel (a) illustrates governance boundaries for AI-assisted analysis, distinguishing acceptable, conditional, and non-delegable uses of generative AI. Panel (b) illustrates a governance escalation ladder showing how review expectations, documentation, and human accountability increase as analytical impact rises." width="100%" />
+<p class="caption">(\#fig:governance-boundary-figure)Panel (a) illustrates governance boundaries for AI-assisted analysis, distinguishing acceptable, conditional, and non-delegable uses of generative AI. Panel (b) illustrates a governance escalation ladder showing how review expectations, documentation, and human accountability increase as analytical impact rises.</p>
+</div>
 
 As illustrated in panel (a), governance boundaries are normative rather than technical. Generative AI systems may be capable of producing recommendations, evaluations, interpretations, summaries, or comparative analyses, but institutional governance determines whether reliance on those outputs is appropriate in professional analytical settings.
 

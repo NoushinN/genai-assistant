@@ -6,14 +6,10 @@ This chapter treats prompting as a methodological practice rather than a technic
 
 The figure below presents a reusable prompt “recipe card” designed for policy and health analytics workflows.
 
-\begin{figure}[H]
-
-{\centering \includegraphics[width=1\linewidth]{figures/02_prompt} 
-
-}
-
-\caption{Prompt recipe card for inquiry and synthesis. A structured prompt clarifies context, task, constraints, format, and uncertainty while preserving human review and accountability.}(\#fig:prompt-recipe-card-figure)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="figures/02_prompt.png" alt="Prompt recipe card for inquiry and synthesis. A structured prompt clarifies context, task, constraints, format, and uncertainty while preserving human review and accountability." width="100%" />
+<p class="caption">(\#fig:prompt-recipe-card-figure)Prompt recipe card for inquiry and synthesis. A structured prompt clarifies context, task, constraints, format, and uncertainty while preserving human review and accountability.</p>
+</div>
 
 As illustrated in the figure, effective prompts typically combine several interconnected elements including contextual framing, a clearly defined analytical task, explicit constraints, expectations regarding output structure, and acknowledgment of uncertainty. Together, these elements help transform prompting from an ad hoc interaction into a more disciplined and transparent analytical practice.
 

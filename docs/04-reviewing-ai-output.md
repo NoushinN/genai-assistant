@@ -10,14 +10,10 @@ Generated material becomes part of an analytical product only through deliberate
 
 The figure below summarizes two complementary dimensions of responsible AI-assisted review. Panel (a) presents a review pipeline for transforming AI-assisted drafts into accountable analytical products, while panel (b) illustrates an evidence-to-claim traceability ladder showing how analytical statements should remain anchored to identifiable sources and explicit assumptions.
 
-\begin{figure}[H]
-
-{\centering \includegraphics[width=1\linewidth]{figures/03_review_traceability} 
-
-}
-
-\caption{Panel (a) illustrates a review pipeline for AI-assisted drafting, emphasizing iterative verification, reasoning review, and analytical accountability. Panel (b) illustrates an evidence-to-claim traceability ladder, showing how analytical claims should remain connected to identifiable sources, interpretation boundaries, and explicit uncertainty.}(\#fig:review-traceability-figure)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="figures/03_review_traceability.png" alt="Panel (a) illustrates a review pipeline for AI-assisted drafting, emphasizing iterative verification, reasoning review, and analytical accountability. Panel (b) illustrates an evidence-to-claim traceability ladder, showing how analytical claims should remain connected to identifiable sources, interpretation boundaries, and explicit uncertainty." width="100%" />
+<p class="caption">(\#fig:review-traceability-figure)Panel (a) illustrates a review pipeline for AI-assisted drafting, emphasizing iterative verification, reasoning review, and analytical accountability. Panel (b) illustrates an evidence-to-claim traceability ladder, showing how analytical claims should remain connected to identifiable sources, interpretation boundaries, and explicit uncertainty.</p>
+</div>
 
 As illustrated in panel (a), responsible AI-assisted drafting is not a linear progression from generation to publication. It is an iterative process involving repeated cycles of fact-checking, reasoning review, revision, accountability assessment, and, at times, rejection altogether. Generated material may move backward through the workflow multiple times before becoming suitable for circulation or publication. Some outputs may ultimately be discarded entirely if they fail evidentiary, methodological, or governance review.
 

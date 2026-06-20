@@ -100,7 +100,7 @@ This material is intended for educational and professional use. If you reuse or 
 
 Nabavi, N. (2026). GenAI Assistant: Practical Guide to Generative AI as a Research and Investigation Assistant. Bookdown project. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20755063.svg)](https://doi.org/10.5281/zenodo.20755063)
+[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20755063.svg)](https://doi.org/10.5281/zenodo.20755063)
 
 ## Disclaimer
 

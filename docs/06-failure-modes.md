@@ -6,14 +6,10 @@ These risks are especially important in policy and health analytics, where analy
 
 The figure below summarizes recurring failure modes in AI-assisted analysis and corresponding mitigation practices. Panel (a) maps common analytical risks to review and mitigation strategies, while panel (b) highlights foundational practices that strengthen analytical resilience across workflows.
 
-\begin{figure}[H]
-
-{\centering \includegraphics[width=1\linewidth]{figures/05_failure_modes_map} 
-
-}
-
-\caption{Panel (a) maps common failure modes in AI-assisted policy and health analytics to corresponding mitigation practices and escalation cues. Panel (b) highlights foundational practices that strengthen analytical resilience through evidence traceability, uncertainty visibility, review discipline, and accountable authorship.}(\#fig:failure-modes-map-figure)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="figures/05_failure_modes_map.png" alt="Panel (a) maps common failure modes in AI-assisted policy and health analytics to corresponding mitigation practices and escalation cues. Panel (b) highlights foundational practices that strengthen analytical resilience through evidence traceability, uncertainty visibility, review discipline, and accountable authorship." width="100%" />
+<p class="caption">(\#fig:failure-modes-map-figure)Panel (a) maps common failure modes in AI-assisted policy and health analytics to corresponding mitigation practices and escalation cues. Panel (b) highlights foundational practices that strengthen analytical resilience through evidence traceability, uncertainty visibility, review discipline, and accountable authorship.</p>
+</div>
 
 As illustrated in panel (a), most analytical risks arise not from deliberate misuse, but from under-review, over-trust, weak governance, or gradual erosion of analytical discipline. Panel (b) complements this perspective by emphasizing foundational practices such as evidence traceability, explicit uncertainty, independent review, and ownership of conclusions, all of which help reduce the likelihood and impact of these risks across analytical workflows.
 
