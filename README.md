@@ -97,9 +97,10 @@ While examples are generic, the framing is especially relevant where analysis in
 ## How to cite or reuse
 
 This material is intended for educational and professional use. If you reuse or adapt content from this repository, please cite the project and preserve its emphasis on responsible, accountable use of generative AI.
-Unless otherwise stated, content reflects general analytical practice and does not represent formal policy or institutional guidance.
 
+Nabavi, N. (2026). GenAI Assistant: Practical Guide to Generative AI as a Research and Investigation Assistant. Bookdown project. 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20755063.svg)](https://doi.org/10.5281/zenodo.20755063)
 
 ## Disclaimer
 
